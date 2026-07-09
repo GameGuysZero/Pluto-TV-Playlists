@@ -12453,6 +12453,11 @@
         <desc>Trois accros du sexe suivent un programme en 12 étapes, à New York, pour s'en sortir.</desc>
         <icon src="https://images.pluto.tv/series/5ffc496eac600d00143abfb3/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="67b4b2d976a934282e92d71c" start="20260710100756 +0000" stop="20260710120312 +0000">
+        <title>Leçons de Vie</title>
+        <desc>L'arrivée de Michael D’Angelo, surnommé “Mr. D”, déplaît au doyen Matt Warner, qui vise le titre de meilleur enseignant. Leur rivalité finit cependant par profiter aux élèves.</desc>
+        <icon src="https://images.pluto.tv/series/670f6fb33d55320013159417/tile_1778873048884.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="6823648580b2665220d9e69a" start="20260710053815 +0000" stop="20260710060815 +0000">
         <title>Ciné 666 by Pluto TV</title>
         <desc>Vous avez déjà rêvé d’assister à un exorcisme? Découvrez ce qu’est vraiment la terreur sur Ciné 666 by Pluto TV. Des cas de possession aux malédictions démoniaques en passant par des prêtres, soyez prêts à sauver votre âme… ou à la vendre au diable!</desc>
@@ -26532,9 +26537,9 @@ Enfin, Sabine et Eddie nous racontent leur King of the Hammers.</desc>
         <icon src="https://images.pluto.tv/series/68921424df1220b5353b7079/tile_1774606703103.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5f914f4b36d67d0007a91a04" start="20260710193436 +0000" stop="20260710202307 +0000">
-        <title>Crimes sur le vif</title>
-        <desc>Amy Lord est tuée. Les enquêteurs suivent le suspect grâce à la vidéosurveillance dans tout Boston.</desc>
-        <icon src="https://images.pluto.tv/series/68921424df1220b5353b7079/tile_1774606703103.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <title>True Crime by Pluto TV</title>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/5f914f4b36d67d0007a91a04/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
     <programme channel="5f914f4b36d67d0007a91a04" start="20260710202307 +0000" stop="20260710211138 +0000">
         <title>Crimes sur le vif</title>
@@ -26956,50 +26961,10 @@ Enfin, Sabine et Eddie nous racontent leur King of the Hammers.</desc>
         <desc>Font du jardinage /  Au tennis /  Se promènent dans la rue (2)</desc>
         <icon src="https://images.pluto.tv/series/6373a8f6eaede8001374b213/tile_1774606320989.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6304f2e2eb10450007298023" start="20260710180000 +0000" stop="20260710183000 +0000">
+    <programme channel="6304f2e2eb10450007298023" start="20260710180000 +0000" stop="20260710220000 +0000">
         <title>Un Village Français</title>
-        <desc>Juillet 42. Un train transportant des juifs étrangés raflés dans la région, s'arrête à Villeneuve suite à une panne. En attendant le nouveau train qui les emportera à Drancy, Daniel Larcher propose de les héberger à l'école pour quelques jours.</desc>
-        <icon src="https://images.pluto.tv/series/64353bd4af2bd900088c2cbf/tile_1783075863718.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6304f2e2eb10450007298023" start="20260710183000 +0000" stop="20260710190000 +0000">
-        <title>Un Village Français</title>
-        <desc>Juillet 42. Un train transportant des juifs étrangés raflés dans la région, s'arrête à Villeneuve suite à une panne. En attendant le nouveau train qui les emportera à Drancy, Daniel Larcher propose de les héberger à l'école pour quelques jours.</desc>
-        <icon src="https://images.pluto.tv/series/64353bd4af2bd900088c2cbf/tile_1783075863718.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6304f2e2eb10450007298023" start="20260710190000 +0000" stop="20260710193000 +0000">
-        <title>Un Village Français</title>
-        <desc>Juillet 42. Un train transportant des juifs étrangés raflés dans la région, s'arrête à Villeneuve suite à une panne. En attendant le nouveau train qui les emportera à Drancy, Daniel Larcher propose de les héberger à l'école pour quelques jours.</desc>
-        <icon src="https://images.pluto.tv/series/64353bd4af2bd900088c2cbf/tile_1783075863718.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6304f2e2eb10450007298023" start="20260710193000 +0000" stop="20260710200000 +0000">
-        <title>Un Village Français</title>
-        <desc>Juillet 42. Un train transportant des juifs étrangés raflés dans la région, s'arrête à Villeneuve suite à une panne. En attendant le nouveau train qui les emportera à Drancy, Daniel Larcher propose de les héberger à l'école pour quelques jours.</desc>
-        <icon src="https://images.pluto.tv/series/64353bd4af2bd900088c2cbf/tile_1783075863718.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6304f2e2eb10450007298023" start="20260710200000 +0000" stop="20260710203000 +0000">
-        <title>Un Village Français</title>
-        <desc>Juillet 42. Un train transportant des juifs étrangés raflés dans la région, s'arrête à Villeneuve suite à une panne. En attendant le nouveau train qui les emportera à Drancy, Daniel Larcher propose de les héberger à l'école pour quelques jours.</desc>
-        <icon src="https://images.pluto.tv/series/64353bd4af2bd900088c2cbf/tile_1783075863718.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6304f2e2eb10450007298023" start="20260710203000 +0000" stop="20260710210000 +0000">
-        <title>Un Village Français</title>
-        <desc>Juillet 42. Un train transportant des juifs étrangés raflés dans la région, s'arrête à Villeneuve suite à une panne. En attendant le nouveau train qui les emportera à Drancy, Daniel Larcher propose de les héberger à l'école pour quelques jours.</desc>
-        <icon src="https://images.pluto.tv/series/64353bd4af2bd900088c2cbf/tile_1783075863718.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6304f2e2eb10450007298023" start="20260710210000 +0000" stop="20260710213000 +0000">
-        <title>Un Village Français</title>
-        <desc>Juillet 42. Un train transportant des juifs étrangés raflés dans la région, s'arrête à Villeneuve suite à une panne. En attendant le nouveau train qui les emportera à Drancy, Daniel Larcher propose de les héberger à l'école pour quelques jours.</desc>
-        <icon src="https://images.pluto.tv/series/64353bd4af2bd900088c2cbf/tile_1783075863718.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6304f2e2eb10450007298023" start="20260710213000 +0000" stop="20260710220000 +0000">
-        <title>Un Village Français</title>
-        <desc>Juillet 42. Un train transportant des juifs étrangés raflés dans la région, s'arrête à Villeneuve suite à une panne. En attendant le nouveau train qui les emportera à Drancy, Daniel Larcher propose de les héberger à l'école pour quelques jours.</desc>
-        <icon src="https://images.pluto.tv/series/64353bd4af2bd900088c2cbf/tile_1783075863718.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6304f2e2eb10450007298023" start="20260710220000 +0000" stop="20260710223000 +0000">
-        <title>Un Village Français</title>
-        <desc>Juillet 42. Un train transportant des juifs étrangés raflés dans la région, s'arrête à Villeneuve suite à une panne. En attendant le nouveau train qui les emportera à Drancy, Daniel Larcher propose de les héberger à l'école pour quelques jours.</desc>
-        <icon src="https://images.pluto.tv/series/64353bd4af2bd900088c2cbf/tile_1783075863718.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/6304f2e2eb10450007298023/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
     <programme channel="65a69ef53af63d000825e0ee" start="20260710172518 +0000" stop="20260710185012 +0000">
         <title>Meg Rising 2</title>
@@ -27182,9 +27147,9 @@ Enfin, Sabine et Eddie nous racontent leur King of the Hammers.</desc>
         <icon src="https://images.pluto.tv/series/66deb20dd404600013e93540/tile_1768267053529.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="6683cd2fca74680008772545" start="20260710204039 +0000" stop="20260710213017 +0000">
-        <title>Forensic Investigators</title>
-        <desc>En avril 1999, le corps de Maya Jakic a été retrouvé recouvert de feuilles et caché dans des buissons devant un poste de patrouille de police inutilisé d'Adélaïde.</desc>
-        <icon src="https://images.pluto.tv/series/66deb20dd404600013e93540/tile_1768267053529.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <title>Investigation by Pluto TV</title>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/6683cd2fca74680008772545/featuredImage_1747399523996.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
     <programme channel="6683cd2fca74680008772545" start="20260710213017 +0000" stop="20260710221826 +0000">
         <title>Forensic Investigators</title>
@@ -27231,50 +27196,10 @@ Enfin, Sabine et Eddie nous racontent leur King of the Hammers.</desc>
         <desc>Après le meurtre de sa fille, le pasteur John croise Jed, un flic cynique. Ensemble, ils traquent le coupable. Pour se venger, John devra plonger dans un monde violent… et peut-être mettre sa foi de côté.</desc>
         <icon src="https://images.pluto.tv/series/68711ff04f8d4a99172119c7/tile_1768332611421.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66f55d0b5e4a6e0008c2b920" start="20260710180000 +0000" stop="20260710183000 +0000">
+    <programme channel="66f55d0b5e4a6e0008c2b920" start="20260710180000 +0000" stop="20260710220000 +0000">
         <title>Enquêtes Criminelles</title>
-        <desc>Nathalie Renoux vous propose de vivre ou de revivre de grandes affaires criminelles qui font ou qui ont fait l'actualité. Qu'elles soient connues ou qu'elles le soient moins, les histoires que vous verrez racontent à chaque fois comment la vie de gens ord</desc>
-        <icon src="https://images.pluto.tv/series/6740934cdaad7f0008bb243e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="66f55d0b5e4a6e0008c2b920" start="20260710183000 +0000" stop="20260710190000 +0000">
-        <title>Enquêtes Criminelles</title>
-        <desc>Nathalie Renoux vous propose de vivre ou de revivre de grandes affaires criminelles qui font ou qui ont fait l'actualité. Qu'elles soient connues ou qu'elles le soient moins, les histoires que vous verrez racontent à chaque fois comment la vie de gens ord</desc>
-        <icon src="https://images.pluto.tv/series/6740934cdaad7f0008bb243e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="66f55d0b5e4a6e0008c2b920" start="20260710190000 +0000" stop="20260710193000 +0000">
-        <title>Enquêtes Criminelles</title>
-        <desc>Nathalie Renoux vous propose de vivre ou de revivre de grandes affaires criminelles qui font ou qui ont fait l'actualité. Qu'elles soient connues ou qu'elles le soient moins, les histoires que vous verrez racontent à chaque fois comment la vie de gens ord</desc>
-        <icon src="https://images.pluto.tv/series/6740934cdaad7f0008bb243e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="66f55d0b5e4a6e0008c2b920" start="20260710193000 +0000" stop="20260710200000 +0000">
-        <title>Enquêtes Criminelles</title>
-        <desc>Nathalie Renoux vous propose de vivre ou de revivre de grandes affaires criminelles qui font ou qui ont fait l'actualité. Qu'elles soient connues ou qu'elles le soient moins, les histoires que vous verrez racontent à chaque fois comment la vie de gens ord</desc>
-        <icon src="https://images.pluto.tv/series/6740934cdaad7f0008bb243e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="66f55d0b5e4a6e0008c2b920" start="20260710200000 +0000" stop="20260710203000 +0000">
-        <title>Enquêtes Criminelles</title>
-        <desc>Nathalie Renoux vous propose de vivre ou de revivre de grandes affaires criminelles qui font ou qui ont fait l'actualité. Qu'elles soient connues ou qu'elles le soient moins, les histoires que vous verrez racontent à chaque fois comment la vie de gens ord</desc>
-        <icon src="https://images.pluto.tv/series/6740934cdaad7f0008bb243e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="66f55d0b5e4a6e0008c2b920" start="20260710203000 +0000" stop="20260710210000 +0000">
-        <title>Enquêtes Criminelles</title>
-        <desc>Nathalie Renoux vous propose de vivre ou de revivre de grandes affaires criminelles qui font ou qui ont fait l'actualité. Qu'elles soient connues ou qu'elles le soient moins, les histoires que vous verrez racontent à chaque fois comment la vie de gens ord</desc>
-        <icon src="https://images.pluto.tv/series/6740934cdaad7f0008bb243e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="66f55d0b5e4a6e0008c2b920" start="20260710210000 +0000" stop="20260710213000 +0000">
-        <title>Enquêtes Criminelles</title>
-        <desc>Nathalie Renoux vous propose de vivre ou de revivre de grandes affaires criminelles qui font ou qui ont fait l'actualité. Qu'elles soient connues ou qu'elles le soient moins, les histoires que vous verrez racontent à chaque fois comment la vie de gens ord</desc>
-        <icon src="https://images.pluto.tv/series/6740934cdaad7f0008bb243e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="66f55d0b5e4a6e0008c2b920" start="20260710213000 +0000" stop="20260710220000 +0000">
-        <title>Enquêtes Criminelles</title>
-        <desc>Nathalie Renoux vous propose de vivre ou de revivre de grandes affaires criminelles qui font ou qui ont fait l'actualité. Qu'elles soient connues ou qu'elles le soient moins, les histoires que vous verrez racontent à chaque fois comment la vie de gens ord</desc>
-        <icon src="https://images.pluto.tv/series/6740934cdaad7f0008bb243e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="66f55d0b5e4a6e0008c2b920" start="20260710220000 +0000" stop="20260710223000 +0000">
-        <title>Enquêtes Criminelles</title>
-        <desc>Nathalie Renoux vous propose de vivre ou de revivre de grandes affaires criminelles qui font ou qui ont fait l'actualité. Qu'elles soient connues ou qu'elles le soient moins, les histoires que vous verrez racontent à chaque fois comment la vie de gens ord</desc>
-        <icon src="https://images.pluto.tv/series/6740934cdaad7f0008bb243e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/66f55d0b5e4a6e0008c2b920/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
     <programme channel="67b4b2d976a934282e92d71c" start="20260710165830 +0000" stop="20260710185830 +0000">
         <title>7 psychopathes</title>
@@ -30746,7 +30671,12 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>Un ouvrier insomniaque sombre dans la paranoïa et la folie en découvrant un sinistre secret sur lui-même.</desc>
         <icon src="https://images.pluto.tv/series/67a34a67b20f8200138d1d99/tile_1778873772720.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8ed0f17564a300082b676a" start="20260710224202 +0000" stop="20260711020000 +0000">
+    <programme channel="5f8ed0f17564a300082b676a" start="20260710224202 +0000" stop="20260711004102 +0000">
+        <title>Four Brothers</title>
+        <desc>Quatre frères adoptés se retrouvent pour enterrer la femme qui les a élevés. Lors des funérailles, les frères découvrent que leur mère a été tuée et vont chercher à se venger.</desc>
+        <icon src="https://images.pluto.tv/series/64ccd3308f763a0013b3fd91/tile_1768501446568.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ed0f17564a300082b676a" start="20260711004102 +0000" stop="20260711020000 +0000">
         <title>Ciné by Pluto TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8ed0f17564a300082b676a/featuredImage_1775048900088.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30766,7 +30696,12 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>À la demande du tribunal, un aspirant combattant de MMA qui souffre d'un trouble de la personnalité multiple entame une thérapie avec le Dr Villalobos, une psychologue novatrice mais perturbée.</desc>
         <icon src="https://images.pluto.tv/series/6a282d6a1718969e36235bb3/tile_1781017962823.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8ed1ff5c39700007e2204a" start="20260710223112 +0000" stop="20260711020000 +0000">
+    <programme channel="5f8ed1ff5c39700007e2204a" start="20260710223112 +0000" stop="20260711001348 +0000">
+        <title>Best Of The Best 1</title>
+        <desc>Le Karaté, art martial ancestral et moderne à la fois, est un sport international où le corps et l’esprit sont en compétition et où, souvent, l’adversaire le plus redoutable, n’est autre que soi-même.</desc>
+        <icon src="https://images.pluto.tv/series/6a22bfe90aef1275c63cfcb1/tile_1780662250377.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ed1ff5c39700007e2204a" start="20260711001348 +0000" stop="20260711020000 +0000">
         <title>Ciné Action by Pluto TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8ed1ff5c39700007e2204a/featuredImage_1752228140367.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30786,7 +30721,17 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>Robert Harrod disparaît avant un événement familial. Les vidéos révèlent un comportement étrange.</desc>
         <icon src="https://images.pluto.tv/series/68921424df1220b5353b7079/tile_1774606703103.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f914f4b36d67d0007a91a04" start="20260710220009 +0000" stop="20260711020000 +0000">
+    <programme channel="5f914f4b36d67d0007a91a04" start="20260710220009 +0000" stop="20260710224840 +0000">
+        <title>Crimes sur le vif</title>
+        <desc>Blanca Valdez est tuée sur son lieu de travail. La vidéosurveillance montre ses derniers instants.</desc>
+        <icon src="https://images.pluto.tv/series/68921424df1220b5353b7079/tile_1774606703103.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f914f4b36d67d0007a91a04" start="20260710224840 +0000" stop="20260710231940 +0000">
+        <title>Bizarre Murders: Festival de la saucisse</title>
+        <desc>Un fromager allemand est empoisonné par une saucisse de Francfort, et la petite amie du défunt désigne immédiatement une autre femme.</desc>
+        <icon src="https://images.pluto.tv/series/610a6a383ef27200134d5d4d/tile_1768093784812.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f914f4b36d67d0007a91a04" start="20260710231940 +0000" stop="20260711020000 +0000">
         <title>True Crime by Pluto TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f914f4b36d67d0007a91a04/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30796,7 +30741,17 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>Après la trahison d'Etienne, Cathy décide de repartir pour Toulouse. Nathalie, qui a jeté son dévolu sur Sébastien malgré l'existence de Linda, sa fiancée, saute sur l'occasion pour proposer aux filles de s'installer avec elles à la cité universitaire.</desc>
         <icon src="https://images.pluto.tv/series/6049f8ad34b28d001a37528b/tile_1774604520974.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="604f8de01b479400078fb1e7" start="20260710220800 +0000" stop="20260711020000 +0000">
+    <programme channel="604f8de01b479400078fb1e7" start="20260710220800 +0000" stop="20260710223500 +0000">
+        <title>Hélène et les garçons: Ejection</title>
+        <desc>Après le départ d'Etienne, le service administratif de la cité universitaire envoie Martial pour partager la chambre des garçons. Le nouveau venu est sale, vulgaire et sans gêne. Nicolas et Christian cherchent un prétexte pour s'en débarrasser.</desc>
+        <icon src="https://images.pluto.tv/series/6049f8ad34b28d001a37528b/tile_1774604520974.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="604f8de01b479400078fb1e7" start="20260710223500 +0000" stop="20260710230300 +0000">
+        <title>Hélène et les garçons: La gouttière</title>
+        <desc>Johanna veut absolument rapprocher Laly et Sébastien. Elle compte bien sur le voyage de Linda à New York pour favoriser cette nouvelle idylle. Le soir même du départ de sa fiancée, Sébastien se dispute avec elle.</desc>
+        <icon src="https://images.pluto.tv/series/6049f8ad34b28d001a37528b/tile_1774604520974.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="604f8de01b479400078fb1e7" start="20260710230300 +0000" stop="20260711020000 +0000">
         <title>Hélène et les garçons</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/604f8de01b479400078fb1e7/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30806,7 +30761,17 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>José décore le local et s'entraîne à manger avec des baguettes pour accueillir sa nouvelle conquête vietnamienne. Manuela annonce aux filles qu'elle a passé la nuit avec Patrick et qu'elle est très amoureuse.</desc>
         <icon src="https://images.pluto.tv/series/60599ea98119a5001a718fff/tile_1774606705056.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60549c238c3f21000753d3e0" start="20260710221400 +0000" stop="20260711020000 +0000">
+    <programme channel="60549c238c3f21000753d3e0" start="20260710221400 +0000" stop="20260710224200 +0000">
+        <title>Le miracle de l'amour: Aveux difficiles</title>
+        <desc>Sur les conseils de Sébastien, Linda se prépare à annoncer à Manuela que Patrick est marié. Elle passe aux aveux dans la salle de sport, alors que Manuela est avec Laly et Patrick. Le jeune homme blêmit et Manuela est pétrifiée...</desc>
+        <icon src="https://images.pluto.tv/series/60599ea98119a5001a718fff/tile_1774606705056.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60549c238c3f21000753d3e0" start="20260710224200 +0000" stop="20260710230900 +0000">
+        <title>Le miracle de l'amour: La dentiste</title>
+        <desc>José a une terrible rage de dents. Laly veut l'aider mais ne fait qu'aggraver sa douleur. Cynthia essaye de faire de son mieux, mais Olivier, jaloux, ne supporte plus qu'elle dorlote un autre garçon.</desc>
+        <icon src="https://images.pluto.tv/series/60599ea98119a5001a718fff/tile_1774606705056.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60549c238c3f21000753d3e0" start="20260710230900 +0000" stop="20260711020000 +0000">
         <title>Le miracle de l'amour</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60549c238c3f21000753d3e0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30816,7 +30781,17 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>Daniel emmène Marc, déprimé, à la salle de sport. Magalie, conversant avec Gérard, lui demande de ne pas révéler sa présence à Marc. À son tour, Marc demande à Gérard de le préserver de Madame Bellefeuille.</desc>
         <icon src="https://images.pluto.tv/series/60599e5c8119a5001a7185d8/tile_1774604881012.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60549d97cd7b090007c73314" start="20260710221209 +0000" stop="20260711020000 +0000">
+    <programme channel="60549d97cd7b090007c73314" start="20260710221209 +0000" stop="20260710223909 +0000">
+        <title>Les filles d'à côté: Dépannage</title>
+        <desc>Marc apprend à Magalie qu'il reçoit Carlo Renzotti, un grand producteur italien, à dîner. Celle-ci, fascinée, veut à tout prix le rencontrer. Pour assumer son mensonge, Marc demande à Gérard de l'aider.</desc>
+        <icon src="https://images.pluto.tv/series/60599e5c8119a5001a7185d8/tile_1774604881012.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60549d97cd7b090007c73314" start="20260710223909 +0000" stop="20260710230524 +0000">
+        <title>Les filles d'à côté: Belle, grande et bronzée</title>
+        <desc>Échappant à la surveillance de Vincent, Wendy descend à la salle d'UV. Elle persuade Daniel que c'est sa mère qui lui a demandé de faire une séance de bronzage... Constatant la disparition de Wendy, Vincent, affolé, court demander l'aide de Marc.</desc>
+        <icon src="https://images.pluto.tv/series/60599e5c8119a5001a7185d8/tile_1774604881012.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60549d97cd7b090007c73314" start="20260710230524 +0000" stop="20260711020000 +0000">
         <title>Les filles d'à côté</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60549d97cd7b090007c73314/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30826,7 +30801,12 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>Le résultat de l'autopsie tombe : Marc a été empoisonné. La Juge est intimement convaincue qu'Isa a aidé son mari à mourir mais doit le prouver. Elle interroge scrupuleusement tout son entourage et dresse un portrait psychologique de la suspecte...</desc>
         <icon src="https://images.pluto.tv/series/60599e9a8119a5001a718e14/tile_1768098528060.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60549e98061b5f000776866a" start="20260710224648 +0000" stop="20260711020000 +0000">
+    <programme channel="60549e98061b5f000776866a" start="20260710224648 +0000" stop="20260710234242 +0000">
+        <title>Les cœurs brûlés: Épisode 11</title>
+        <desc>Isa a été inculpée et mise en prison. Elle refuse de prendre un avocat pour se défendre malgré l'insistance de Christian et Patricia qui lui rendent souvent visite.</desc>
+        <icon src="https://images.pluto.tv/series/60599e9a8119a5001a718e14/tile_1768098528060.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60549e98061b5f000776866a" start="20260710234242 +0000" stop="20260711020000 +0000">
         <title>Instant Saga</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60549e98061b5f000776866a/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30836,7 +30816,12 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>Paul Matthews, un biochimiste qui n'a pas de chance avec les femmes, se laisse persuader par des amis d'aller voir une bohémienne, Madame Ruth. Celle-ci lui donne la "Love Potion No. 9", un élixir capable de faire tomber n'importe qui amoureux de lui.</desc>
         <icon src="https://images.pluto.tv/series/6a282eb6114ca7fcbee5d406/tile_1781018325377.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60812fc8539963000707d1e1" start="20260710223522 +0000" stop="20260711020000 +0000">
+    <programme channel="60812fc8539963000707d1e1" start="20260710223522 +0000" stop="20260711003322 +0000">
+        <title>Chaudes nuits d'été</title>
+        <desc>Un adolescent se retrouve durant un été à la tête d'un trafic de drogue.</desc>
+        <icon src="https://images.pluto.tv/series/607044763bbc1b001aee2903/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60812fc8539963000707d1e1" start="20260711003322 +0000" stop="20260711020000 +0000">
         <title>Ciné Romance by Pluto TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60812fc8539963000707d1e1/featuredImage_1775048649580.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30846,7 +30831,22 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>Annette, triomphante, annonce à ses amies qu'elle sort avec Serge. Ari, qui n'est pas au courant, la cherche partout. Luc et Anthony vont en boîte de nuit et deux jeunes filles se battent pour Luc.</desc>
         <icon src="https://images.pluto.tv/series/612de133dc29d20013b750fa/tile_1776241801275.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60afae68a7fc50000737186d" start="20260710220500 +0000" stop="20260711020000 +0000">
+    <programme channel="60afae68a7fc50000737186d" start="20260710220500 +0000" stop="20260710223100 +0000">
+        <title>Les années fac: Panne de cœur</title>
+        <desc>Tandis que Martial presse Luc de questions sur Virginie, Ari est désespéré car il est sûr qu'Annette le trompe. Les filles poussent Annette à lui parler...</desc>
+        <icon src="https://images.pluto.tv/series/612de133dc29d20013b750fa/tile_1776241801275.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60afae68a7fc50000737186d" start="20260710223100 +0000" stop="20260710225800 +0000">
+        <title>Les années fac: Réconciliation</title>
+        <desc>Virginie renvoie Martial car elle pense toujours à Luc. Tandis que Daniel est désespéré car Clarisse vient de le quitter, Annette hésite toujours entre Serge et Ari.</desc>
+        <icon src="https://images.pluto.tv/series/612de133dc29d20013b750fa/tile_1776241801275.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60afae68a7fc50000737186d" start="20260710225800 +0000" stop="20260710232400 +0000">
+        <title>Les années fac: Le remplaçant</title>
+        <desc>Virginie apprend par Justine que Luc a cherché à la revoir. Elle est folle de joie, mais Anthony lui annonce que Martial s'est vanté auprès de Luc d'être sorti avec elle et que Luc a très mal réagi.</desc>
+        <icon src="https://images.pluto.tv/series/612de133dc29d20013b750fa/tile_1776241801275.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60afae68a7fc50000737186d" start="20260710232400 +0000" stop="20260711020000 +0000">
         <title>Les Années fac</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60afae68a7fc50000737186d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30856,7 +30856,12 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>Quand Patrick Sauvignon, ouvrier dans l’usine Dampierre, se rend compte que son patron participe à la croisière, il est convaincu que c’est le moment de lui demander une promotion !</desc>
         <icon src="https://images.pluto.tv/series/6140545572d3a20013297fd5/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60afb203ec391c00070ea1bf" start="20260710220500 +0000" stop="20260711020000 +0000">
+    <programme channel="60afb203ec391c00070ea1bf" start="20260710220500 +0000" stop="20260710230300 +0000">
+        <title>La Croisière: Les bons parents</title>
+        <desc>Marie-Lou se prend d’affection pour Jérémy, un enfant surdoué de 8 ans qui s’ennuie. Lorsqu’elle lui parle d’aventures et de pirates, Jérémy la prend au mot, fugue et sème la pagaille sur le Prince des Mers...</desc>
+        <icon src="https://images.pluto.tv/series/6140545572d3a20013297fd5/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60afb203ec391c00070ea1bf" start="20260710230300 +0000" stop="20260711020000 +0000">
         <title>Génération Sitcoms</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60afb203ec391c00070ea1bf/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30866,7 +30871,12 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>Un jeune neuroscientifique solitaire et en mal de reconnaissance tente de surpasser l’héritage de son père, chercheur reconnu, en approfondissant ses travaux sur le cerveau.</desc>
         <icon src="https://images.pluto.tv/series/6a181ece1718969e36800ac3/tile_1779965647585.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60c34592c911890007f29a73" start="20260710223012 +0000" stop="20260711020000 +0000">
+    <programme channel="60c34592c911890007f29a73" start="20260710223012 +0000" stop="20260711002712 +0000">
+        <title>Programmé pour tuer</title>
+        <desc>Composé de 200 personnalités, toutes de meurtriers notoires. Il s'agit de Sid 6.7, un système de réalité virtuelle conçu pour tester les officiers de police de Los Angeles.</desc>
+        <icon src="https://images.pluto.tv/series/601cfbd9e17f63001ae1a6c4/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60c34592c911890007f29a73" start="20260711002712 +0000" stop="20260711020000 +0000">
         <title>Ciné Sci-Fi by Pluto TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60c34592c911890007f29a73/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30886,7 +30896,12 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>A la une des journaux, en gros titre, « Le fauteuil hanté ! » : les candidats au fauteuil vacant de l’Académie-Française meurent brutalement les uns après les autres. A qui donc profite le crime ?</desc>
         <icon src="https://images.pluto.tv/series/633bf63e0e4203001345a43f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62f3e0522443200008c567d7" start="20260710221454 +0000" stop="20260711020000 +0000">
+    <programme channel="62f3e0522443200008c567d7" start="20260710221454 +0000" stop="20260710230854 +0000">
+        <title>La Famille Katz: Sentiments mitigés</title>
+        <desc>Lisette est maintenant bien installée dans le bureau de Lenny et commence sérieusement à lui tirer la bourre. Roméo, qui se sent rejeté par sa mère, dérape, entrainant son père dans sa chute.</desc>
+        <icon src="https://images.pluto.tv/series/633e85f2cba1290014d5233f/tile_1768201277727.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62f3e0522443200008c567d7" start="20260710230854 +0000" stop="20260711020000 +0000">
         <title>Pluto TV French Collection</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62f3e0522443200008c567d7/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30906,7 +30921,22 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>Font du jardinage /  Au tennis /  Se promènent dans la rue (2)</desc>
         <icon src="https://images.pluto.tv/series/6373a8f6eaede8001374b213/tile_1774606320989.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62f3ece7b09fd6000783bfb9" start="20260710220541 +0000" stop="20260711020000 +0000">
+    <programme channel="62f3ece7b09fd6000783bfb9" start="20260710220541 +0000" stop="20260710222741 +0000">
+        <title>Un Gars Une Fille: Chez le photographe /  Pique-niquent /  Répondent à la porte (1)</title>
+        <desc>Chez le photographe /  Pique-niquent /  Répondent à la porte (1)</desc>
+        <icon src="https://images.pluto.tv/series/6373a8f6eaede8001374b213/tile_1774606320989.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62f3ece7b09fd6000783bfb9" start="20260710222741 +0000" stop="20260710225141 +0000">
+        <title>Un Gars Une Fille: Dans le desert (1) /  Dans le desert (2) /  Dans un palais (2)</title>
+        <desc>Dans le desert (1) /  Dans le desert (2) /  Dans un palais (2)</desc>
+        <icon src="https://images.pluto.tv/series/6373a8f6eaede8001374b213/tile_1774606320989.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62f3ece7b09fd6000783bfb9" start="20260710225141 +0000" stop="20260710231341 +0000">
+        <title>Un Gars Une Fille: Salle de bain (2) /  Convalescence Belle-mère /  Au lit (2)</title>
+        <desc>Salle de bain (2) /  Convalescence Belle-mère /  Au lit (2)</desc>
+        <icon src="https://images.pluto.tv/series/6373a8f6eaede8001374b213/tile_1774606320989.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62f3ece7b09fd6000783bfb9" start="20260710231341 +0000" stop="20260711020000 +0000">
         <title>Un gars, une fille</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62f3ece7b09fd6000783bfb9/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30916,7 +30946,17 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>Juillet 42. Un train transportant des juifs étrangés raflés dans la région, s'arrête à Villeneuve suite à une panne. En attendant le nouveau train qui les emportera à Drancy, Daniel Larcher propose de les héberger à l'école pour quelques jours.</desc>
         <icon src="https://images.pluto.tv/series/64353bd4af2bd900088c2cbf/tile_1783075863718.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6304f2e2eb10450007298023" start="20260710223000 +0000" stop="20260711020000 +0000">
+    <programme channel="6304f2e2eb10450007298023" start="20260710223000 +0000" stop="20260710230000 +0000">
+        <title>Un Village Français</title>
+        <desc>Juillet 42. Un train transportant des juifs étrangés raflés dans la région, s'arrête à Villeneuve suite à une panne. En attendant le nouveau train qui les emportera à Drancy, Daniel Larcher propose de les héberger à l'école pour quelques jours.</desc>
+        <icon src="https://images.pluto.tv/series/64353bd4af2bd900088c2cbf/tile_1783075863718.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6304f2e2eb10450007298023" start="20260710230000 +0000" stop="20260710233000 +0000">
+        <title>Un Village Français</title>
+        <desc>Juillet 42. Un train transportant des juifs étrangés raflés dans la région, s'arrête à Villeneuve suite à une panne. En attendant le nouveau train qui les emportera à Drancy, Daniel Larcher propose de les héberger à l'école pour quelques jours.</desc>
+        <icon src="https://images.pluto.tv/series/64353bd4af2bd900088c2cbf/tile_1783075863718.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6304f2e2eb10450007298023" start="20260710233000 +0000" stop="20260711020000 +0000">
         <title>Un Village Français</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6304f2e2eb10450007298023/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30936,7 +30976,12 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>Après avoir été maltraitée par les hommes, Belle Starr devient leur égale dans l'équitation, le tir et le jeu, souvent habillée en homme. Son histoire d'amour tumultueuse avec Larry Blackie aboutit à un vol raté.</desc>
         <icon src="https://images.pluto.tv/series/68db90d5f1f80c8151782a0d/tile_1759222144791.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65cca3e2ec452d0008af3a65" start="20260710221255 +0000" stop="20260711020000 +0000">
+    <programme channel="65cca3e2ec452d0008af3a65" start="20260710221255 +0000" stop="20260711000055 +0000">
+        <title>Sartana dans la vallée des vautours</title>
+        <desc>Un aventurier, chargé de faire évader les membres d'une bande, récupère pour sa mission la moitié de la somme volée par des bandits. Il lui faut alors tenter d'échapper à ces hommes qui le poursuivent inlassablement dans le desert.</desc>
+        <icon src="https://images.pluto.tv/series/612dd430c809bb001364c315/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65cca3e2ec452d0008af3a65" start="20260711000055 +0000" stop="20260711020000 +0000">
         <title>Ciné Western by Pluto TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65cca3e2ec452d0008af3a65/featuredImage_1751272826279.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30956,7 +31001,17 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>Alors qu’Aurélie tente à nouveau sa chance, la pression monte d’un cran pour Guillaume qui veut en savoir plus. De son côté, Rudy comprendra-t-il enfin le problème d’Estelle ?</desc>
         <icon src="https://images.pluto.tv/series/66599fa7f9326800136e0d02/tile_1774604530196.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="662a6309307fa30008196b4e" start="20260710221750 +0000" stop="20260711020000 +0000">
+    <programme channel="662a6309307fa30008196b4e" start="20260710221750 +0000" stop="20260710224445 +0000">
+        <title>Plus Belle la Vie: Saison 3 Episode 140</title>
+        <desc>Alors que Guillaume se décide à passer à l’action, Charlotte doitmanœuvrer pour se débarrasser de son coach. De son côté, Vincent se laissera-t- il convaincre d’accepter un nouveau projet d’architecte ?</desc>
+        <icon src="https://images.pluto.tv/series/66599fa7f9326800136e0d02/tile_1774604530196.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="662a6309307fa30008196b4e" start="20260710224445 +0000" stop="20260710231104 +0000">
+        <title>Plus Belle la Vie: Saison 3 Episode 141</title>
+        <desc>De retour à Marseille, Juliette et Jean-Baptiste ont-ils vraiment appréhendé de la même manière leur séjour à New-York… Quant à Céline, sera-t-elle capable de faire valoir son point de vue à Vincent ?</desc>
+        <icon src="https://images.pluto.tv/series/66599fa7f9326800136e0d02/tile_1774604530196.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="662a6309307fa30008196b4e" start="20260710231104 +0000" stop="20260711020000 +0000">
         <title>Plus Belle la Vie 2</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/662a6309307fa30008196b4e/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30966,7 +31021,17 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>Tandis que Manu se confronte à Alex, Théo découvre l'univers de l'aéronautique.</desc>
         <icon src="https://images.pluto.tv/series/67ff9bc01426f2773e03e2f9/tile_1774607040894.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6683cd0f63a5f20008fb84a3" start="20260710221205 +0000" stop="20260711020000 +0000">
+    <programme channel="6683cd0f63a5f20008fb84a3" start="20260710221205 +0000" stop="20260710223632 +0000">
+        <title>Un si grand soleil</title>
+        <desc>Alors que Patricia semble terriblement perturbée, Jo détient des informations compromettantes sur Sky 34.</desc>
+        <icon src="https://images.pluto.tv/series/67ff9bc01426f2773e03e2f9/tile_1774607040894.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6683cd0f63a5f20008fb84a3" start="20260710223632 +0000" stop="20260710230136 +0000">
+        <title>Un si grand soleil</title>
+        <desc>Alors qu'Arthur se montre héroïque, Lucille fait une découverte surprenante sur Ludo.</desc>
+        <icon src="https://images.pluto.tv/series/67ff9bc01426f2773e03e2f9/tile_1774607040894.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6683cd0f63a5f20008fb84a3" start="20260710230136 +0000" stop="20260711020000 +0000">
         <title>Un Si Grand Soleil</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6683cd0f63a5f20008fb84a3/featuredImage_1749650858534.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30976,7 +31041,12 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>En décembre 1994, le corps d'Andrew Astbury a été retrouvé flottant dans la rivière Yarra à Melbourne. Il s'agissait d'un homme de 25 ans, travailleur et fiable, issu d'une bonne famille.</desc>
         <icon src="https://images.pluto.tv/series/66deb20dd404600013e93540/tile_1768267053529.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6683cd2fca74680008772545" start="20260710221826 +0000" stop="20260711020000 +0000">
+    <programme channel="6683cd2fca74680008772545" start="20260710221826 +0000" stop="20260710230812 +0000">
+        <title>Forensic Investigators</title>
+        <desc>En 1998, la mort brutale du commerçant David O'Hearn et du maire Frank Arkell a semé la peur dans la ville de Wollongong, en Nouvelle-Galles du Sud.</desc>
+        <icon src="https://images.pluto.tv/series/66deb20dd404600013e93540/tile_1768267053529.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6683cd2fca74680008772545" start="20260710230812 +0000" stop="20260711020000 +0000">
         <title>Investigation by Pluto TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6683cd2fca74680008772545/featuredImage_1747399523996.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30996,7 +31066,17 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>Nathalie Renoux vous propose de vivre ou de revivre de grandes affaires criminelles qui font ou qui ont fait l'actualité. Qu'elles soient connues ou qu'elles le soient moins, les histoires que vous verrez racontent à chaque fois comment la vie de gens ord</desc>
         <icon src="https://images.pluto.tv/series/6740934cdaad7f0008bb243e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66f55d0b5e4a6e0008c2b920" start="20260710223000 +0000" stop="20260711020000 +0000">
+    <programme channel="66f55d0b5e4a6e0008c2b920" start="20260710223000 +0000" stop="20260710230000 +0000">
+        <title>Enquêtes Criminelles</title>
+        <desc>Nathalie Renoux vous propose de vivre ou de revivre de grandes affaires criminelles qui font ou qui ont fait l'actualité. Qu'elles soient connues ou qu'elles le soient moins, les histoires que vous verrez racontent à chaque fois comment la vie de gens ord</desc>
+        <icon src="https://images.pluto.tv/series/6740934cdaad7f0008bb243e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66f55d0b5e4a6e0008c2b920" start="20260710230000 +0000" stop="20260710233000 +0000">
+        <title>Enquêtes Criminelles</title>
+        <desc>Nathalie Renoux vous propose de vivre ou de revivre de grandes affaires criminelles qui font ou qui ont fait l'actualité. Qu'elles soient connues ou qu'elles le soient moins, les histoires que vous verrez racontent à chaque fois comment la vie de gens ord</desc>
+        <icon src="https://images.pluto.tv/series/6740934cdaad7f0008bb243e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66f55d0b5e4a6e0008c2b920" start="20260710233000 +0000" stop="20260711020000 +0000">
         <title>Enquêtes Criminelles</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66f55d0b5e4a6e0008c2b920/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31006,7 +31086,12 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>Deux beaux mecs font irruption dans l'univers de Cher : un nouveau camarade d'école sexy et son ex demi-frère à l'esprit carré mais bien mignon. Elle apprend maintenant que lorsqu'il s'agit d'amour, elle est nulle.</desc>
         <icon src="https://images.pluto.tv/series/601c12cc87be07001a29b2be/tile_1782751322193.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="67b4b2d976a934282e92d71c" start="20260710222830 +0000" stop="20260711020000 +0000">
+    <programme channel="67b4b2d976a934282e92d71c" start="20260710222830 +0000" stop="20260711000730 +0000">
+        <title>Big Movie</title>
+        <desc>Deux des scénaristes déjantés de « Scary Movie » jettent ici leur esprit parodique sur le plus imposant des genres : les films à franchise hollywoodiens à gros budgets remplis d’effets spéciaux.</desc>
+        <icon src="https://images.pluto.tv/series/606d73cca224c9001bb94790/tile_1779493322617.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67b4b2d976a934282e92d71c" start="20260711000730 +0000" stop="20260711020000 +0000">
         <title>Pluto TV Comédies Cultes</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/67b4b2d976a934282e92d71c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31016,7 +31101,12 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>Par le réalisateur de « La colline a des yeux », cette histoire terrifiante raconte comment un ex-flic en difficulté doit sauver sa famille d’une menace maléfique épouvantable qui utilise les miroirs pour pénétrer chez eux.</desc>
         <icon src="https://images.pluto.tv/series/606eda855426cf001a3a8b65/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6823648580b2665220d9e69a" start="20260710220820 +0000" stop="20260711020000 +0000">
+    <programme channel="6823648580b2665220d9e69a" start="20260710220820 +0000" stop="20260710234558 +0000">
+        <title>The Devil's Hour</title>
+        <desc>Deux amis organisent des exorcismes truqués mais terrifiants de réalisme sur un livestream. Un jour, alors que la petite amie de l'un d'entre eux joue le rôle de l'exorcisée, des phénomènes étranges se produisent en direct.</desc>
+        <icon src="https://images.pluto.tv/series/6822112e30b839eca543844a/tile_1768263842236.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6823648580b2665220d9e69a" start="20260710234558 +0000" stop="20260711020000 +0000">
         <title>Ciné 666 by Pluto TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6823648580b2665220d9e69a/featuredImage-1757404098.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31026,7 +31116,12 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>Nina est désormais titulaire, mais l'arrivée d'un nouveau chef de service change la donne.</desc>
         <icon src="https://images.pluto.tv/series/699ec2848c539e794a14e65d/tile_1772012165751.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="692ec6d82329c10c5166f436" start="20260710225053 +0000" stop="20260711020000 +0000">
+    <programme channel="692ec6d82329c10c5166f436" start="20260710225053 +0000" stop="20260710235143 +0000">
+        <title>NINA</title>
+        <desc>Un RER a déraillé non loin de l'hôpital Madelein Brès. Parmi les blessés envoyés en médecine interne, Nina prend en charge Laurent, le conducteur du train, qui est anéanti par la catastrophe qu'il a provoquée.</desc>
+        <icon src="https://images.pluto.tv/series/699ec2848c539e794a14e65d/tile_1772012165751.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="692ec6d82329c10c5166f436" start="20260710235143 +0000" stop="20260711020000 +0000">
         <title>Nina</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/692ec6d82329c10c5166f436/featuredImage_1771598181775.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31036,7 +31131,17 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>Catfish, la célèbre émission de MTV qui réunit des couples qui n'ont jamais interagi que par le biais d'écrans. Au fil des mois, ils sont tombés amoureux, mais que se passera-t-il lorsqu'ils se rencontreront pour la première fois dans la vraie vie ?</desc>
         <icon src="https://images.pluto.tv/series/68541465c692373f0117fd11/tile_1750948902426.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8eb66537867f0007146953" start="20260710221400 +0000" stop="20260711020000 +0000">
+    <programme channel="5f8eb66537867f0007146953" start="20260710221400 +0000" stop="20260710224400 +0000">
+        <title>Catfish</title>
+        <desc>Catfish, la célèbre émission de MTV qui réunit des couples qui n'ont jamais interagi que par le biais d'écrans. Au fil des mois, ils sont tombés amoureux, mais que se passera-t-il lorsqu'ils se rencontreront pour la première fois dans la vraie vie ?</desc>
+        <icon src="https://images.pluto.tv/series/68541465c692373f0117fd11/tile_1750948902426.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8eb66537867f0007146953" start="20260710224400 +0000" stop="20260710231400 +0000">
+        <title>Catfish</title>
+        <desc>Catfish, la célèbre émission de MTV qui réunit des couples qui n'ont jamais interagi que par le biais d'écrans. Au fil des mois, ils sont tombés amoureux, mais que se passera-t-il lorsqu'ils se rencontreront pour la première fois dans la vraie vie ?</desc>
+        <icon src="https://images.pluto.tv/series/68541465c692373f0117fd11/tile_1750948902426.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8eb66537867f0007146953" start="20260710231400 +0000" stop="20260711020000 +0000">
         <title>CATFISH TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8eb66537867f0007146953/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31056,7 +31161,12 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>Le 3 février 1990, À Pasadena au Texas, une adolescente de 14 ans fait une fugue de chez elle et disparaît sans laisser de traces. Sa mère espère que les policiers pourront la retrouver avant qu’il ne soit trop tard.</desc>
         <icon src="https://images.pluto.tv/series/5fb1410d584f69001a66aae3/tile_1774607401183.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8edad922b10b000753bc37" start="20260710225100 +0000" stop="20260711020000 +0000">
+    <programme channel="5f8edad922b10b000753bc37" start="20260710225100 +0000" stop="20260710234300 +0000">
+        <title>Dossiers FBI: Flagrant délit</title>
+        <desc>En juillet 1996, deux hommes font irruption chez un prêteur sur gage de Birmingham en Alabama et abattent brutalement les employés. Mais les meurtriers ignorent qu’une caméra de surveillance cachée a enregistré le crime.</desc>
+        <icon src="https://images.pluto.tv/series/5fb1410d584f69001a66aae3/tile_1774607401183.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8edad922b10b000753bc37" start="20260710234300 +0000" stop="20260711020000 +0000">
         <title>Dossiers FBI</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8edad922b10b000753bc37/featuredImage-1608307461254.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31066,17 +31176,17 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>Le monde moderne ressemble de plus en plus à celui dépeint par George Orwell, dans son roman « 1984 ». Grâce au développement de la technologie, il est de plus en plus difficile de commettre un meurtre sans laisser de traces.</desc>
         <icon src="https://images.pluto.tv/series/600a9bb0caf1bb001a7f6af1/tile_1774607760935.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8edb6df1ebb800072edf10" start="20260710221800 +0000" stop="20260711020000 +0000">
+    <programme channel="5f8edb6df1ebb800072edf10" start="20260710221800 +0000" stop="20260710231200 +0000">
+        <title>Les Nouveaux Detectives: La justice n’oublie jamais</title>
+        <desc>Plusieurs années après que des meurtres ont été commis, les enquêteurs ont recours à des analyses génétiques de pointe pour faire la lumière sur des enquêtes qui n’avaient jusqu’alors jamais été résolues.</desc>
+        <icon src="https://images.pluto.tv/series/600a9bb0caf1bb001a7f6af1/tile_1774607760935.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8edb6df1ebb800072edf10" start="20260710231200 +0000" stop="20260711020000 +0000">
         <title>Les Nouveaux Detectives</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8edb6df1ebb800072edf10/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="6092544e7639460007d4835e" start="20260710213009 +0000" stop="20260710220009 +0000">
-        <title>Pluto TV Reality</title>
-        <desc>Dire que cette chaîne est pleine de personnalités serait un euphémisme. Si vous êtes à la recherche de divertissements excessifs, extravagants, et carrément délirants, c'est votre lieu de destination.</desc>
-        <icon src="https://images.pluto.tv/series/6a0dd2257120a26f0d803a30/tile_1779290662217.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6092544e7639460007d4835e" start="20260710220009 +0000" stop="20260711020000 +0000">
+    <programme channel="6092544e7639460007d4835e" start="20260710220000 +0000" stop="20260711020000 +0000">
         <title>Pluto TV Reality</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6092544e7639460007d4835e/featuredImage_1783323667324.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31086,7 +31196,17 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>Holmes et Watson retrouvent Lestrade hors de contrôle dans son appartement enflammé.</desc>
         <icon src="https://images.pluto.tv/series/68108ca0f5ddf73deb53f4c4/tile_1768266033573.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="611e6a9b4bb5790007a6f0f8" start="20260710221536 +0000" stop="20260711020000 +0000">
+    <programme channel="611e6a9b4bb5790007a6f0f8" start="20260710221536 +0000" stop="20260710224150 +0000">
+        <title>Les Exploits d'Arsene Lupin</title>
+        <desc>Une amie de Kelly lui demande de veiller sur un cristal d'Arkinite pour elle.</desc>
+        <icon src="https://images.pluto.tv/series/6814a5b01426f2773e03368c/tile_1768268382077.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="611e6a9b4bb5790007a6f0f8" start="20260710224150 +0000" stop="20260710230804 +0000">
+        <title>Les Exploits d'Arsene Lupin</title>
+        <desc>Au cours d'un voyage à Hollywood, Kelly découvre qu'elle et Max ne sont pas seuls. Lupin et Grognard sont également présents, mais pour quelles raisons?</desc>
+        <icon src="https://images.pluto.tv/series/6814a5b01426f2773e03368c/tile_1768268382077.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="611e6a9b4bb5790007a6f0f8" start="20260710230804 +0000" stop="20260711020000 +0000">
         <title>Pluto TV Retro Toons</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/611e6a9b4bb5790007a6f0f8/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31096,7 +31216,17 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>Le Onze Terrestre va jouer son dernier match. Son adversaire sera l'équipe de la planète Falam Orbius. Dans l'Orion Express, les joueurs réunissent les pierres de l'espoir.</desc>
         <icon src="https://images.pluto.tv/series/64941e70c5ae3500135e277f/tile_1774607040926.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="611e75226b7f420007c3f319" start="20260710221500 +0000" stop="20260711020000 +0000">
+    <programme channel="611e75226b7f420007c3f319" start="20260710221500 +0000" stop="20260710224100 +0000">
+        <title>Inazuma Eleven Go Galaxy FR: La revanche de la planète Ixar</title>
+        <desc>Alors que le onze terrestre est sur le point d'affronter l'équipe de la planète Falam Orbius, le coach Black annonce à ses joueurs qu'il démissionne de son poste d'entraîneur.</desc>
+        <icon src="https://images.pluto.tv/series/64941e70c5ae3500135e277f/tile_1774607040926.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="611e75226b7f420007c3f319" start="20260710224100 +0000" stop="20260710230700 +0000">
+        <title>Inazuma Eleven Go Galaxy FR: Falam Medius</title>
+        <desc>C'est la finale du Grand Tournoi Galaxy ! Le Onze Terrestre affronte l'équipe de Falam Orbius dans ce match qui désignera la meilleure équipe de la galaxie, mais aussi la planète qui sera sauvée de la destruction.</desc>
+        <icon src="https://images.pluto.tv/series/64941e70c5ae3500135e277f/tile_1774607040926.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="611e75226b7f420007c3f319" start="20260710230700 +0000" stop="20260711020000 +0000">
         <title>Inazuma Eleven</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/611e75226b7f420007c3f319/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31106,7 +31236,12 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>Le principe est simple : une personne en invite une autre afin de lui faire une déclaration devant la France entière. L'invité découvre sur le plateau qui l'a fait venir, et peut décider de lever le rideau qui les sépare et le rejoindre... ou pas !</desc>
         <icon src="https://images.pluto.tv/series/615efcd242c9af001bf6247d/tile_1776244321063.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="612e044c970e6f00083bcf3b" start="20260710224200 +0000" stop="20260711020000 +0000">
+    <programme channel="612e044c970e6f00083bcf3b" start="20260710224200 +0000" stop="20260711003000 +0000">
+        <title>Y'a que la vérité qui compte: Episode 12</title>
+        <desc>Le principe est simple : une personne en invite une autre afin de lui faire une déclaration devant la France entière. L'invité découvre sur le plateau qui l'a fait venir, et peut décider de lever le rideau qui les sépare et le rejoindre... ou pas !</desc>
+        <icon src="https://images.pluto.tv/series/615efcd242c9af001bf6247d/tile_1776244321063.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="612e044c970e6f00083bcf3b" start="20260711003000 +0000" stop="20260711020000 +0000">
         <title>Y'a que la vérité qui compte</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/612e044c970e6f00083bcf3b/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31116,7 +31251,17 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>Joey et Bandit Ken s’affrontent en duel sous le regard amusé de Pégassus. Cependant, Bandit Ken est prêt à tout pour gagner, y compris l’usage de moyens malhonnêtes…</desc>
         <icon src="https://images.pluto.tv/series/64a677502273310013f16ce8/tile_1774604161038.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6130d9c712c2b000070abb50" start="20260710222200 +0000" stop="20260711020000 +0000">
+    <programme channel="6130d9c712c2b000070abb50" start="20260710222200 +0000" stop="20260710224500 +0000">
+        <title>Yu-Gi-Oh! FR: Meilleurs amis, meilleurs adversaire 1ère Partie</title>
+        <desc>Yugi et Joey sont d'excellents amis et pourtant, ils doivent s'affronter lors de la finale du tournoi du royaume des duellistes. Pegasus, lui, savoure le spectacle de deux amis qui se livrent à une lutte acharnée... mais il est bien le seul !</desc>
+        <icon src="https://images.pluto.tv/series/64a677502273310013f16ce8/tile_1774604161038.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6130d9c712c2b000070abb50" start="20260710224500 +0000" stop="20260710231000 +0000">
+        <title>Yu-Gi-Oh! FR: Meilleurs amis, meilleurs adversaires 2ème Partie</title>
+        <desc>Le duel entre Yugi et Joey tourne à l’avantage de ce dernier. Yugi saura-t-il renverser la vapeur ? Nos deux duellistes vont faire appel à la magie pour tenter de l’emporter et nous réservent bien des surprises.</desc>
+        <icon src="https://images.pluto.tv/series/64a677502273310013f16ce8/tile_1774604161038.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6130d9c712c2b000070abb50" start="20260710231000 +0000" stop="20260711020000 +0000">
         <title>Yu-Gi-Oh!</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6130d9c712c2b000070abb50/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31126,7 +31271,17 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>Impmon n'est pas de taille à lutter contre Indramon. Alors que ce dernier avait l'avantage, il disparaît soudain... Pour mieux réapparaître au pire moment ! Seuls Takato et Guilmon, digivolvé en WarGrowlmon, pourront lui faire face.</desc>
         <icon src="https://images.pluto.tv/series/62b2c904cb0324001352a894/tile_1768201787541.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="617bae1d69bca3000729561e" start="20260710221200 +0000" stop="20260711020000 +0000">
+    <programme channel="617bae1d69bca3000729561e" start="20260710221200 +0000" stop="20260710223700 +0000">
+        <title>Digimon Tamers: La quête de Jeri</title>
+        <desc>Hirokazu et Kenta désirent ardemment devenir Digi-dompteurs. Juri, quant à elle, va faire une rencontre qui va bouleverser sa vie. Leomon est-il prêt à ouvrir son cœur a une Digi-dompteuse ? Une nouvelle menace approche.</desc>
+        <icon src="https://images.pluto.tv/series/62b2c904cb0324001352a894/tile_1768201787541.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="617bae1d69bca3000729561e" start="20260710223700 +0000" stop="20260710230200 +0000">
+        <title>Digimon Tamers: Un poids lourd</title>
+        <desc>Un nouvel ennemi extrêmement destructeur sème la panique et la destruction dans le monde réel. Même Yamaki prend la fuite. Les Digimon ont beau faire front et se digivolver, ils ne font pas le poids face à un tel cador.</desc>
+        <icon src="https://images.pluto.tv/series/62b2c904cb0324001352a894/tile_1768201787541.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="617bae1d69bca3000729561e" start="20260710230200 +0000" stop="20260711020000 +0000">
         <title>Digimon Adventure</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/617bae1d69bca3000729561e/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31136,7 +31291,17 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>Plusieurs meurtres sont commis lors d’un concours réunissant des passionés de Sherlock Holmes. Les lycéens détectives de la zone est et ouest parviennent à faire la lumière sur l’attaque dans le noir de Fujisawa avec une facilité déconcertante.</desc>
         <icon src="https://images.pluto.tv/series/637238066089a700137a9372/tile_1768260186139.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62f3e8ad2a8e8000077b013d" start="20260710220828 +0000" stop="20260711020000 +0000">
+    <programme channel="62f3e8ad2a8e8000077b013d" start="20260710220828 +0000" stop="20260710223628 +0000">
+        <title>Détective Conan: Une première fatale</title>
+        <desc>“Mon tout premier concours de shopping”, organisé par le Centre Commercial Beika, est inauguré au Parc Beika. Les membres de notre jeune équipe de détectives sont tout excités à l’idée de faire un reportage sur les enfants qui y participent.</desc>
+        <icon src="https://images.pluto.tv/series/637238066089a700137a9372/tile_1768260186139.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62f3e8ad2a8e8000077b013d" start="20260710223628 +0000" stop="20260710230428 +0000">
+        <title>Détective Conan: Une dessinatrice pleine de talent</title>
+        <desc>Conan et Ran accompagnent Kogoro au bureau de l’illustratrice Hanaoka. Une fois sur place, Hanaoka reçoit un appel de Chono, son assistante, qui l’informe qu’elle veut se suicider.</desc>
+        <icon src="https://images.pluto.tv/series/637238066089a700137a9372/tile_1768260186139.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62f3e8ad2a8e8000077b013d" start="20260710230428 +0000" stop="20260711020000 +0000">
         <title>Detective Conan</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62f3e8ad2a8e8000077b013d/featuredImage-1745586978166.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31146,7 +31311,17 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>"Teen Mom" raconte les défis auxquels les adolescentes Farrah, Maci, Amber et Catelynn sont confrontées au cours de leurs premières années de maternité.</desc>
         <icon src="https://images.pluto.tv/series/68370c5acf5ae3a5088a7de5/tile_1748438287683.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62f3f05505e621000783df2f" start="20260710222155 +0000" stop="20260711020000 +0000">
+    <programme channel="62f3f05505e621000783df2f" start="20260710222155 +0000" stop="20260710225155 +0000">
+        <title>Teen Mom</title>
+        <desc>"Teen Mom" raconte les défis auxquels les adolescentes Farrah, Maci, Amber et Catelynn sont confrontées au cours de leurs premières années de maternité.</desc>
+        <icon src="https://images.pluto.tv/series/68370c5acf5ae3a5088a7de5/tile_1748438287683.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62f3f05505e621000783df2f" start="20260710225155 +0000" stop="20260710232155 +0000">
+        <title>Teen Mom</title>
+        <desc>"Teen Mom" raconte les défis auxquels les adolescentes Farrah, Maci, Amber et Catelynn sont confrontées au cours de leurs premières années de maternité.</desc>
+        <icon src="https://images.pluto.tv/series/68370c5acf5ae3a5088a7de5/tile_1748438287683.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62f3f05505e621000783df2f" start="20260710232155 +0000" stop="20260711020000 +0000">
         <title>Teen Mom</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62f3f05505e621000783df2f/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31156,7 +31331,12 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>Les meilleurs amis Jack et Grant vont se donner une leçon. Beth et Merissa craquent lors de la révélation. Tasmin choisit pour son copain Levi l'un des plus gros tatouages jamais vu dans l'émission.</desc>
         <icon src="https://images.pluto.tv/series/641423ac6c78eb001a3f85f2/tile_1768259883919.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6304f20c941c5d00089634e7" start="20260710222000 +0000" stop="20260711020000 +0000">
+    <programme channel="6304f20c941c5d00089634e7" start="20260710222000 +0000" stop="20260710231000 +0000">
+        <title>Just Tattoo of Us FR: Trop c'est trop</title>
+        <desc>Clare et Chloe, mère et fille et meilleures amies, mettent leur amour à l'épreuve. Shai et Abbie mettent leur couple en péril. Beau, de "Geordie Shore", ressort de vieilles chamailleries entre frères.</desc>
+        <icon src="https://images.pluto.tv/series/641423ac6c78eb001a3f85f2/tile_1768259883919.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6304f20c941c5d00089634e7" start="20260710231000 +0000" stop="20260711020000 +0000">
         <title>Just Tattoo of Us</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6304f20c941c5d00089634e7/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31166,17 +31346,22 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>Monkey.D.Luffy, un pirate, se lance à la recherche du fabuleux trésor One Piece avec son équipage !</desc>
         <icon src="https://images.pluto.tv/series/645106aa54afb6001ac7f14b/tile_1783627561906.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6380c94947c72b0007ee9a13" start="20260710222142 +0000" stop="20260711020000 +0000">
+    <programme channel="6380c94947c72b0007ee9a13" start="20260710222142 +0000" stop="20260710224842 +0000">
+        <title>One Piece: Le choc ! Law contre le vice-amiral Smoker.</title>
+        <desc>Monkey.D.Luffy, un pirate, se lance à la recherche du fabuleux trésor One Piece avec son équipage !</desc>
+        <icon src="https://images.pluto.tv/series/645106aa54afb6001ac7f14b/tile_1783627561906.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6380c94947c72b0007ee9a13" start="20260710224842 +0000" stop="20260710231542 +0000">
+        <title>One Piece: Réunis après deux ans ! Luffy et Law.</title>
+        <desc>Monkey.D.Luffy, un pirate, se lance à la recherche du fabuleux trésor One Piece avec son équipage !</desc>
+        <icon src="https://images.pluto.tv/series/645106aa54afb6001ac7f14b/tile_1783627561906.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6380c94947c72b0007ee9a13" start="20260710231542 +0000" stop="20260711020000 +0000">
         <title>One Piece</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6380c94947c72b0007ee9a13/featuredImage_1765795729899.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="63921a1bf76e7d0007c998a6" start="20260710210800 +0000" stop="20260710225400 +0000">
-        <title>STUDIO 120</title>
-        <desc>Retrouvez le meilleur du reportage 100% action : investigation, enquêtes sans concession, des sujets forts, des reportages spectaculaires. Découvrez en immersion la face cachée de votre quotidien.</desc>
-        <icon src="https://images.pluto.tv/series/69fa14edffc6644289b2b7f2/tile_1778839546897.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="63921a1bf76e7d0007c998a6" start="20260710225400 +0000" stop="20260711020000 +0000">
+    <programme channel="63921a1bf76e7d0007c998a6" start="20260710220000 +0000" stop="20260711020000 +0000">
         <title>Enquêtes de Choc</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/63921a1bf76e7d0007c998a6/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31186,7 +31371,12 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>En 1994, Fred Neulander, un rabbin respecté du New Jersey, découvre sa femme, 52 ans, battue à mort sur le sol de leur salon, mais rien ne semble avoir été volé. L'enquête mène la police dans un monde de secrets et de trahisons.</desc>
         <icon src="https://images.pluto.tv/series/6613b9baa7a31d00170ca819/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="63921a3d00c96100082a3cb4" start="20260710224100 +0000" stop="20260711020000 +0000">
+    <programme channel="63921a3d00c96100082a3cb4" start="20260710224100 +0000" stop="20260710233500 +0000">
+        <title>The FBI Files</title>
+        <desc>Dans l'Ohio, les agents du FBI mettent en lien deux affaires: la disparition de deux personnes et le meurtre d'un couple de personnes âgées, retrouvé dans la cave de leur maison.</desc>
+        <icon src="https://images.pluto.tv/series/6613b9bca7a31d00170caad6/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63921a3d00c96100082a3cb4" start="20260710233500 +0000" stop="20260711020000 +0000">
         <title>Homicide</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/63921a3d00c96100082a3cb4/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31196,7 +31386,12 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>A quoi ça sert le sang ? De quoi se compose-t-il ? Comment fait-il pour circuler dans tout notre corps ? Que lui arrive-t-il quand il est attaqué par un virus ? Et la moelle osseuse, à quoi ça sert ? Que se passe-t-il quand elle fonctionne mal ?</desc>
         <icon src="https://images.pluto.tv/series/6464dc8617da09001a0f44ed/tile_1768261440257.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="63b579961bdba100071214cb" start="20260710222712 +0000" stop="20260711020000 +0000">
+    <programme channel="63b579961bdba100071214cb" start="20260710222712 +0000" stop="20260710230212 +0000">
+        <title>C'est Pas Sorcier FR: Mayas</title>
+        <desc>Cette semaine, Fred, Jamy et Sabine sont à Calakmul, au beau milieu de la jungle mexicaine. Depuis ce site extraordinaire qui vit l’apogée de l’une des plus grandes cités mayas, nos trois compères retracent l’histoire de cette civilisation.</desc>
+        <icon src="https://images.pluto.tv/series/6464dc8617da09001a0f44ed/tile_1768261440257.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63b579961bdba100071214cb" start="20260710230212 +0000" stop="20260711020000 +0000">
         <title>C'est pas sorcier</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/63b579961bdba100071214cb/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31206,7 +31401,12 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>James teste l'Aston Martin Virage. Jeremy et Richard examinent des superbes occasions comme la Nissan Pixo. Puis ils se lancent aussi dans laconstruction de scooters de mobilité.</desc>
         <icon src="https://images.pluto.tv/series/6572c1c0b4896d00130d813e/tile_1768587483098.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="64c1093824ade50008bd117f" start="20260710225552 +0000" stop="20260711020000 +0000">
+    <programme channel="64c1093824ade50008bd117f" start="20260710225552 +0000" stop="20260710235248 +0000">
+        <title>Top Gear: Series 17 and 18: Best Of: Épisode 4</title>
+        <desc>Jeremy, Richard et James remplacent les wagons et locomotives par une série de caravanes. Les garçons se demandent si la course automobile est moins cher que le golf.</desc>
+        <icon src="https://images.pluto.tv/series/6572c1c0b4896d00130d813e/tile_1768587483098.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64c1093824ade50008bd117f" start="20260710235248 +0000" stop="20260711020000 +0000">
         <title>Top Gear</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/64c1093824ade50008bd117f/featuredImage_1760622806310.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31216,7 +31416,17 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>Jeu iconique dans lequel des couples répondent à des questions pour découvrir s’ils se connaissent vraiment bien ! Dans chaque épisode, trois couples s’affrontent en 2 manches. Le couple ayant obtenu le score le plus élevé est le gagnant.</desc>
         <icon src="https://images.pluto.tv/series/6572f0e4254a680008cd5c35/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="652d0b756208700008d758ad" start="20260710223000 +0000" stop="20260711020000 +0000">
+    <programme channel="652d0b756208700008d758ad" start="20260710223000 +0000" stop="20260710230000 +0000">
+        <title>Les Z'amours</title>
+        <desc>Jeu iconique dans lequel des couples répondent à des questions pour découvrir s’ils se connaissent vraiment bien ! Dans chaque épisode, trois couples s’affrontent en 2 manches. Le couple ayant obtenu le score le plus élevé est le gagnant.</desc>
+        <icon src="https://images.pluto.tv/series/6572f0e4254a680008cd5c35/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="652d0b756208700008d758ad" start="20260710230000 +0000" stop="20260710233000 +0000">
+        <title>Les Z'amours</title>
+        <desc>Jeu iconique dans lequel des couples répondent à des questions pour découvrir s’ils se connaissent vraiment bien ! Dans chaque épisode, trois couples s’affrontent en 2 manches. Le couple ayant obtenu le score le plus élevé est le gagnant.</desc>
+        <icon src="https://images.pluto.tv/series/6572f0e4254a680008cd5c35/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="652d0b756208700008d758ad" start="20260710233000 +0000" stop="20260711020000 +0000">
         <title>Les Z'amours</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/652d0b756208700008d758ad/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31226,7 +31436,17 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>Jean-Pierre Foucault accueille dans le jeu le plus emblématique de la télé de prestigieux invités qui joueront au profit d'associations !Ces duos répondront à des questions pour atteindre le sommet de la pyramide des gains et récolter un maximum de fonds.</desc>
         <icon src="https://images.pluto.tv/series/6572f1f534636800081869cf/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="652d0b9ceb72580008a4ea5b" start="20260710223000 +0000" stop="20260711020000 +0000">
+    <programme channel="652d0b9ceb72580008a4ea5b" start="20260710223000 +0000" stop="20260710230000 +0000">
+        <title>Qui veut gagner des millions?</title>
+        <desc>Jean-Pierre Foucault accueille dans le jeu le plus emblématique de la télé de prestigieux invités qui joueront au profit d'associations !Ces duos répondront à des questions pour atteindre le sommet de la pyramide des gains et récolter un maximum de fonds.</desc>
+        <icon src="https://images.pluto.tv/series/6572f1f534636800081869cf/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="652d0b9ceb72580008a4ea5b" start="20260710230000 +0000" stop="20260710233000 +0000">
+        <title>Qui veut gagner des millions?</title>
+        <desc>Jean-Pierre Foucault accueille dans le jeu le plus emblématique de la télé de prestigieux invités qui joueront au profit d'associations !Ces duos répondront à des questions pour atteindre le sommet de la pyramide des gains et récolter un maximum de fonds.</desc>
+        <icon src="https://images.pluto.tv/series/6572f1f534636800081869cf/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="652d0b9ceb72580008a4ea5b" start="20260710233000 +0000" stop="20260711020000 +0000">
         <title>Qui veut gagner des millions?</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/652d0b9ceb72580008a4ea5b/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31236,7 +31456,17 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>Olive et Tom narre l'histoire du jeune Olivier Atton qui rêve de devenir le meilleur footballeur au monde</desc>
         <icon src="https://images.pluto.tv/series/6698c3149700930013831439/tile_1774606321041.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="662a63275a402e00086bc8a5" start="20260710221350 +0000" stop="20260711020000 +0000">
+    <programme channel="662a63275a402e00086bc8a5" start="20260710221350 +0000" stop="20260710224116 +0000">
+        <title>Olive et Tom, champions de foot</title>
+        <desc>Olive et Tom narre l'histoire du jeune Olivier Atton qui rêve de devenir le meilleur footballeur au monde</desc>
+        <icon src="https://images.pluto.tv/series/6698c3149700930013831439/tile_1774606321041.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="662a63275a402e00086bc8a5" start="20260710224116 +0000" stop="20260710230841 +0000">
+        <title>Olive et Tom, champions de foot</title>
+        <desc>Olive et Tom narre l'histoire du jeune Olivier Atton qui rêve de devenir le meilleur footballeur au monde</desc>
+        <icon src="https://images.pluto.tv/series/6698c3149700930013831439/tile_1774606321041.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="662a63275a402e00086bc8a5" start="20260710230841 +0000" stop="20260711020000 +0000">
         <title>Olive &amp; Tom</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/662a63275a402e00086bc8a5/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31246,7 +31476,22 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>Gingka et ses amis volent vers Nemesis, dans l'Océan Pacifique, mais l'hélicoptère est pris dans une terrible tempête.</desc>
         <icon src="https://images.pluto.tv/series/66a0c8308dfe2a00132ab4f2/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="664c8ba33d173b00080ef0c8" start="20260710220051 +0000" stop="20260711020000 +0000">
+    <programme channel="664c8ba33d173b00080ef0c8" start="20260710220051 +0000" stop="20260710222616 +0000">
+        <title>Beyblade Metal Fury</title>
+        <desc>Gingka et ses amis tentent d'aider Ryuga qui a été gravement blessé dans son combat contre Rago.</desc>
+        <icon src="https://images.pluto.tv/series/66a0c8308dfe2a00132ab4f2/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="664c8ba33d173b00080ef0c8" start="20260710222616 +0000" stop="20260710225141 +0000">
+        <title>Beyblade Metal Fury</title>
+        <desc>Kenta et sa toupie améliorée, Flash Sagittario, affrontent Rago et sa toupie Diablo Nemesis.</desc>
+        <icon src="https://images.pluto.tv/series/66a0c8308dfe2a00132ab4f2/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="664c8ba33d173b00080ef0c8" start="20260710225141 +0000" stop="20260710231706 +0000">
+        <title>Beyblade Metal Fury</title>
+        <desc>Gingka et les bladers légendaires des 4 saisons semblent avoir achevé la barrière de Zeus et enfermé Nemesis.</desc>
+        <icon src="https://images.pluto.tv/series/66a0c8308dfe2a00132ab4f2/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="664c8ba33d173b00080ef0c8" start="20260710231706 +0000" stop="20260711020000 +0000">
         <title>Beyblade</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/664c8ba33d173b00080ef0c8/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31256,7 +31501,22 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>Alors qu'un ouragan meurtrier se dirige vers Lawndale, Daria et Jane sont coincées sur le toit du lycée avec Kevin et Brittanny. Les personnages interprètent sept chansons originales.</desc>
         <icon src="https://images.pluto.tv/series/6694e0d82fca0600136aa842/tile_1783410480945.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6683b680efa2a10008e8a393" start="20260710220640 +0000" stop="20260711020000 +0000">
+    <programme channel="6683b680efa2a10008e8a393" start="20260710220640 +0000" stop="20260710223100 +0000">
+        <title>Daria</title>
+        <desc>Avec le retour des autres membres de la famille Lane, Jane et Trent sont envoyés chez les Morgendorffer. Mais un troisième invité vient faire voler en éclats les rêves de Daria d'idylle avec Trent.</desc>
+        <icon src="https://images.pluto.tv/series/6694e0d82fca0600136aa842/tile_1783410480945.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6683b680efa2a10008e8a393" start="20260710223100 +0000" stop="20260710225532 +0000">
+        <title>Daria</title>
+        <desc>Jane, Trent et le groupe se font arrêter par la police. Daria, qui vient d'avoir son permis, leur vient en aide avec Quinn, qui utilise l'argent de la caution en futilités.</desc>
+        <icon src="https://images.pluto.tv/series/6694e0d82fca0600136aa842/tile_1783410480945.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6683b680efa2a10008e8a393" start="20260710225532 +0000" stop="20260710231959 +0000">
+        <title>Daria</title>
+        <desc>Toute l'école part en croisière de façon plus ou moins volontaire pour récolter de l'argent via les paris du casino.</desc>
+        <icon src="https://images.pluto.tv/series/6694e0d82fca0600136aa842/tile_1783410480945.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6683b680efa2a10008e8a393" start="20260710231959 +0000" stop="20260711020000 +0000">
         <title>Daria</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6683b680efa2a10008e8a393/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31266,7 +31526,17 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>Suivez les aventures de candidats qui ont marqué la téléréalité en France ! Pendant plusieurs semaines, c’est dans les plus grandes villes du monde et dans une villa de star qu’ils tenteront de réaliser leurs objectifs professionnels.</desc>
         <icon src="https://images.pluto.tv/series/67335b293b8ac6001359b863/tile_1774604161069.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66b228d4cd0d3100085d27b7" start="20260710222612 +0000" stop="20260711020000 +0000">
+    <programme channel="66b228d4cd0d3100085d27b7" start="20260710222612 +0000" stop="20260710225238 +0000">
+        <title>Les Anges de la Téléréalité</title>
+        <desc>Suivez les aventures de candidats qui ont marqué la téléréalité en France ! Pendant plusieurs semaines, c’est dans les plus grandes villes du monde et dans une villa de star qu’ils tenteront de réaliser leurs objectifs professionnels.</desc>
+        <icon src="https://images.pluto.tv/series/67335b293b8ac6001359b863/tile_1774604161069.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66b228d4cd0d3100085d27b7" start="20260710225238 +0000" stop="20260710231947 +0000">
+        <title>Les Anges de la Téléréalité</title>
+        <desc>Suivez les aventures de candidats qui ont marqué la téléréalité en France ! Pendant plusieurs semaines, c’est dans les plus grandes villes du monde et dans une villa de star qu’ils tenteront de réaliser leurs objectifs professionnels.</desc>
+        <icon src="https://images.pluto.tv/series/67335b293b8ac6001359b863/tile_1774604161069.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66b228d4cd0d3100085d27b7" start="20260710231947 +0000" stop="20260711020000 +0000">
         <title>Les Anges</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66b228d4cd0d3100085d27b7/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31276,7 +31546,12 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>Dans la première partie, l’équipe est suivie. Dans cette partie, il devient clair. Un membre de l’équipe piégé et perdu, un autre poursuivi, et un poltergeist signale qu’il est temps de partir.</desc>
         <icon src="https://images.pluto.tv/series/670cbbd0132dfe00131cc840/tile_1768267576410.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66d722d31878f200081c2c64" start="20260710221036 +0000" stop="20260711020000 +0000">
+    <programme channel="66d722d31878f200081c2c64" start="20260710221036 +0000" stop="20260710230539 +0000">
+        <title>Most Haunted</title>
+        <desc>Un musée unique, avec des bâtiments anciens, abritant plusieurs esprits. L’équipe fait l’expérience de mouvements d’objets, de bruits étranges à la caméra, et de leur meilleure réponse EVP à ce jour.</desc>
+        <icon src="https://images.pluto.tv/series/670cbbd0132dfe00131cc840/tile_1768267576410.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66d722d31878f200081c2c64" start="20260710230539 +0000" stop="20260711020000 +0000">
         <title>Most Haunted</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66d722d31878f200081c2c64/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31286,7 +31561,17 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>Magazine des conducteurs et de leurs automobiles, Turbo présente les nouvelles tendances sociologiques, économiques et écologiques</desc>
         <icon src="https://images.pluto.tv/series/6740975d030a2c000826a539/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66f55c3955567d0008ef9b68" start="20260710223000 +0000" stop="20260711020000 +0000">
+    <programme channel="66f55c3955567d0008ef9b68" start="20260710223000 +0000" stop="20260710230000 +0000">
+        <title>Turbo</title>
+        <desc>Magazine des conducteurs et de leurs automobiles, Turbo présente les nouvelles tendances sociologiques, économiques et écologiques</desc>
+        <icon src="https://images.pluto.tv/series/6740975d030a2c000826a539/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66f55c3955567d0008ef9b68" start="20260710230000 +0000" stop="20260710233000 +0000">
+        <title>Turbo</title>
+        <desc>Magazine des conducteurs et de leurs automobiles, Turbo présente les nouvelles tendances sociologiques, économiques et écologiques</desc>
+        <icon src="https://images.pluto.tv/series/6740975d030a2c000826a539/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66f55c3955567d0008ef9b68" start="20260710233000 +0000" stop="20260711020000 +0000">
         <title>Turbo</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66f55c3955567d0008ef9b68/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31296,7 +31581,17 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>Suivez les aventures folles des Marseillais à travers le monde ! Entre amours, amitiés, et drames explosifs, revivez les moments cultes et les épisodes emblématiques, 100 % gratuits et en continu !</desc>
         <icon src="https://images.pluto.tv/series/66ff9edca07d1a0008f06cb9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66f55d565e4a6e0008c2b9d2" start="20260710223000 +0000" stop="20260711020000 +0000">
+    <programme channel="66f55d565e4a6e0008c2b9d2" start="20260710223000 +0000" stop="20260710230000 +0000">
+        <title>Les Marseillais</title>
+        <desc>Suivez les aventures folles des Marseillais à travers le monde ! Entre amours, amitiés, et drames explosifs, revivez les moments cultes et les épisodes emblématiques, 100 % gratuits et en continu !</desc>
+        <icon src="https://images.pluto.tv/series/66ff9edca07d1a0008f06cb9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66f55d565e4a6e0008c2b9d2" start="20260710230000 +0000" stop="20260710233000 +0000">
+        <title>Les Marseillais</title>
+        <desc>Suivez les aventures folles des Marseillais à travers le monde ! Entre amours, amitiés, et drames explosifs, revivez les moments cultes et les épisodes emblématiques, 100 % gratuits et en continu !</desc>
+        <icon src="https://images.pluto.tv/series/66ff9edca07d1a0008f06cb9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66f55d565e4a6e0008c2b9d2" start="20260710233000 +0000" stop="20260711020000 +0000">
         <title>Les Marseillais</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66f55d565e4a6e0008c2b9d2/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31306,7 +31601,12 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>Le vol 3054 de TAM Airlines dévale la piste à toute vitesse et s’écrase.</desc>
         <icon src="https://images.pluto.tv/series/69814b7538705ecd4440aa21/tile_1783619796361.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="686e74c777ed3360cb6908bf" start="20260710220900 +0000" stop="20260711020000 +0000">
+    <programme channel="686e74c777ed3360cb6908bf" start="20260710220900 +0000" stop="20260710230300 +0000">
+        <title>Mayday : Catastrophe Aérienne</title>
+        <desc>L’équipage et les passagers à bord du vol 111 de British Airways savent que quelque chose ne va pas du tout.</desc>
+        <icon src="https://images.pluto.tv/series/69814b7538705ecd4440aa21/tile_1783619796361.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="686e74c777ed3360cb6908bf" start="20260710230300 +0000" stop="20260711020000 +0000">
         <title>Mayday: Catastrophe Aérienne</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/686e74c777ed3360cb6908bf/featuredImage_1763054803003.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31316,7 +31616,22 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>Nobita utilise une pilule donnée par Doraemon pour transformer son rival amoureux en un professeur tyrannique / C'est l'heure d'un nouveau concert de Géant. Les enfants se rassemblent à contrecœur, redoutant le son de la voix de Géant.</desc>
         <icon src="https://images.pluto.tv/series/67fd0dd830b839eca5c87bc9/tile_1768265644766.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68b17414c23bb80b3c1d5bb5" start="20260710220750 +0000" stop="20260711020000 +0000">
+    <programme channel="68b17414c23bb80b3c1d5bb5" start="20260710220750 +0000" stop="20260710223156 +0000">
+        <title>Doraemon</title>
+        <desc>Nobita ne retrouve pas le livre qu'il a emprunté à Shizuka, alors Doraemon lui prête la bombe à revoir le passé / Géant et Sunéo obligent Nobita à porter leurs sacs à dos tout le long du chemin jusqu'à chez eux après l'école.</desc>
+        <icon src="https://images.pluto.tv/series/67fd0dd830b839eca5c87bc9/tile_1768265644766.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68b17414c23bb80b3c1d5bb5" start="20260710223156 +0000" stop="20260710225602 +0000">
+        <title>Doraemon</title>
+        <desc>Géant est furieux lorsqu'il voit une photo sur laquelle quelqu'un a placé une main derrière sa tête. Sunéo accuse Nobita, alors Doraemon et Nobita partent à la recherche du véritable coupable en utilisant l'Album en 3 dimensions.</desc>
+        <icon src="https://images.pluto.tv/series/67fd0dd830b839eca5c87bc9/tile_1768265644766.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68b17414c23bb80b3c1d5bb5" start="20260710225602 +0000" stop="20260710232006 +0000">
+        <title>Doraemon</title>
+        <desc>La boîte à musique précieuse de Shizuka est cassée. Nobita propose de la réparer avec le mini-mini robot de Doraemon / Muku, le chien de Jaiko, a eu un grave accident. Géant supplie Doraemon de trouver un moyen de sauver l'animal.</desc>
+        <icon src="https://images.pluto.tv/series/67fd0dd830b839eca5c87bc9/tile_1768265644766.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68b17414c23bb80b3c1d5bb5" start="20260710232006 +0000" stop="20260711020000 +0000">
         <title>Doraemon</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/68b17414c23bb80b3c1d5bb5/featuredImage_1760606457685.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31326,7 +31641,17 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>Édouard, chirurgien, a les doigts brisés. Suspects : Fabrice, son rival pour un poste de chef ; Stéphanie, sa compagne égocentrique voulant qu'il quitte son métier ; ou Claire, son ex-femme cherchant à se venger de son mépris constant.</desc>
         <icon src="https://images.pluto.tv/series/69e5cab824d9b7beb5351bae/tile_1776667321031.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="697a34496f47f39d31ff8bde" start="20260710221215 +0000" stop="20260711020000 +0000">
+    <programme channel="697a34496f47f39d31ff8bde" start="20260710221215 +0000" stop="20260710223917 +0000">
+        <title>Si près de chez vous</title>
+        <desc>Eric, éleveur normand, meurt lors d'une chute. Suspects : Joël, son apprenti au passé judiciaire ; la mère de Joël protégeant son fils ; ou Stéphanie, sa fille découvrant un lourd secret.</desc>
+        <icon src="https://images.pluto.tv/series/69e5cab824d9b7beb5351bae/tile_1776667321031.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="697a34496f47f39d31ff8bde" start="20260710223917 +0000" stop="20260710231102 +0000">
+        <title>Si près de chez vous</title>
+        <desc>Céline, professeure, menace de se jeter par la fenêtre. Suspects : Abel, un élève épris d'elle ; la mère d'Abel, craignant une emprise psychologique ; ou François, son compagnon, avec qui elle est en conflit.</desc>
+        <icon src="https://images.pluto.tv/series/69e5cab824d9b7beb5351bae/tile_1776667321031.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="697a34496f47f39d31ff8bde" start="20260710231102 +0000" stop="20260711020000 +0000">
         <title>Si près de chez vous</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/697a34496f47f39d31ff8bde/featuredImage_1771926209987.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31336,7 +31661,17 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>Pluto TV Teen vous offre le meilleur du contenu pour adolescents de Nickelodeon ! Plongez dans le plaisir avec iCarly, Henry Danger, The Thundermans, Big Time Rush, et plus encore. Profitez d'aventures hilarantes, d'action de super-héros et de moments mus</desc>
         <icon src="https://images.pluto.tv/series/68246ed29eed174f7fb955aa/tile_1747218131226.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8eb99ff17815000784a3b0" start="20260710221000 +0000" stop="20260711020000 +0000">
+    <programme channel="5f8eb99ff17815000784a3b0" start="20260710221000 +0000" stop="20260710224000 +0000">
+        <title>Pluto TV Teen</title>
+        <desc>Pluto TV Teen vous offre le meilleur du contenu pour adolescents de Nickelodeon ! Plongez dans le plaisir avec iCarly, Henry Danger, The Thundermans, Big Time Rush, et plus encore. Profitez d'aventures hilarantes, d'action de super-héros et de moments mus</desc>
+        <icon src="https://images.pluto.tv/series/68246ed29eed174f7fb955aa/tile_1747218131226.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8eb99ff17815000784a3b0" start="20260710224000 +0000" stop="20260710231000 +0000">
+        <title>Pluto TV Teen</title>
+        <desc>Pluto TV Teen vous offre le meilleur du contenu pour adolescents de Nickelodeon ! Plongez dans le plaisir avec iCarly, Henry Danger, The Thundermans, Big Time Rush, et plus encore. Profitez d'aventures hilarantes, d'action de super-héros et de moments mus</desc>
+        <icon src="https://images.pluto.tv/series/68246ed29eed174f7fb955aa/tile_1747218131226.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8eb99ff17815000784a3b0" start="20260710231000 +0000" stop="20260711020000 +0000">
         <title>Pluto TV  Teen</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8eb99ff17815000784a3b0/featuredImage_1750752089122.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31346,7 +31681,17 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>Pluto TV Toons vous offre le meilleur des émissions animées de Nickelodeon ! Découvrez Fairly OddParents, Loud House, Casagrandes, Kung Fu Panda, Sanjay and Craig, et bien plus encore. Plongez dans l'amusement, le rire et les aventures pour tous les âges</desc>
         <icon src="https://images.pluto.tv/series/6824682c9eed174f7fb880fb/tile_1747216428951.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8eba14a4ffb8000764e950" start="20260710220719 +0000" stop="20260711020000 +0000">
+    <programme channel="5f8eba14a4ffb8000764e950" start="20260710220719 +0000" stop="20260710223719 +0000">
+        <title>Pluto TV Toons</title>
+        <desc>Pluto TV Toons vous offre le meilleur des émissions animées de Nickelodeon ! Découvrez Fairly OddParents, Loud House, Casagrandes, Kung Fu Panda, Sanjay and Craig, et bien plus encore. Plongez dans l'amusement, le rire et les aventures pour tous les âges</desc>
+        <icon src="https://images.pluto.tv/series/6824682c9eed174f7fb880fb/tile_1747216428951.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8eba14a4ffb8000764e950" start="20260710223719 +0000" stop="20260710230719 +0000">
+        <title>Pluto TV Toons</title>
+        <desc>Pluto TV Toons vous offre le meilleur des émissions animées de Nickelodeon ! Découvrez Fairly OddParents, Loud House, Casagrandes, Kung Fu Panda, Sanjay and Craig, et bien plus encore. Plongez dans l'amusement, le rire et les aventures pour tous les âges</desc>
+        <icon src="https://images.pluto.tv/series/6824682c9eed174f7fb880fb/tile_1747216428951.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8eba14a4ffb8000764e950" start="20260710230719 +0000" stop="20260711020000 +0000">
         <title>Pluto TV Toons</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8eba14a4ffb8000764e950/featuredImage_1751874536413.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31356,7 +31701,17 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>Retour dans un New York tranquille. Cérémonie pour April, organisée par Splinter. Elle est désormais kunoïchi. Mais le soir même, une mystérieuse sorcière lui vole son tanto du dragon.</desc>
         <icon src="https://images.pluto.tv/series/5fdb0e4d636004001a7839de/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8ecc1b37867f00071469e9" start="20260710222100 +0000" stop="20260711020000 +0000">
+    <programme channel="5f8ecc1b37867f00071469e9" start="20260710222100 +0000" stop="20260710224600 +0000">
+        <title>Les Tortues Ninja: Foot contre Foot</title>
+        <desc>Leonardo a fait alliance en cachette avec Karaï et Shinigami pour démanteler une à une les opérations de Shredder. Ils commencent par une planque des Dragons Pourpres, puis s'attaquent à l'usine chimique, un lieu névralgique de l'organisation.</desc>
+        <icon src="https://images.pluto.tv/series/5fdb0e4d636004001a7839de/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ecc1b37867f00071469e9" start="20260710224600 +0000" stop="20260710231100 +0000">
+        <title>Les Tortues Ninja: Infectes insectes</title>
+        <desc>Stockman crée de nouveaux mutants pour l'aider à cambrioler les banques afin de réunir de l'argent pour Shredder. Un ancien homme d'affaires  devient Scaramouche, un mutant mi-araignée mi-mouche. Il crée également une fourmi géante.</desc>
+        <icon src="https://images.pluto.tv/series/5fdb0e4d636004001a7839de/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ecc1b37867f00071469e9" start="20260710231100 +0000" stop="20260711020000 +0000">
         <title>Tortues Ninja TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8ecc1b37867f00071469e9/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31366,7 +31721,17 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>Carly fabrique pour Sam un unique T-shirt iCarly pour commémorer l'anniversaire de leur amitié. Mais quand Sam échange le t-shirt contre des billets de concert, les deux amies se disputent.</desc>
         <icon src="https://images.pluto.tv/series/5fe1c9d60dddaf0013b90848/tile_1781024401758.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8ecc7aa44d9c00081fca29" start="20260710221500 +0000" stop="20260711020000 +0000">
+    <programme channel="5f8ecc7aa44d9c00081fca29" start="20260710221500 +0000" stop="20260710224000 +0000">
+        <title>iCarly: On peut toujours rêver</title>
+        <desc>iCarly demande à ses fans d'envoyer des vidéos d'eux-mêmes pratiquant leur plus belle danse. Carly, Sam et Freddie recoivent plus de 3000 vidéos et se retrouvent à veiller toute la nuit pour les regarder.</desc>
+        <icon src="https://images.pluto.tv/series/5fe1c9d60dddaf0013b90848/tile_1781024401758.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ecc7aa44d9c00081fca29" start="20260710224000 +0000" stop="20260710230500 +0000">
+        <title>iCarly: Joyeux Halloween</title>
+        <desc>Carly, Sam et Freddie tournent iCarly dans un appartement prétendument hanté. Quand des choses étranges se mettent à se passer, les amis se demandent si les rumeurs de fantômes ne sont pas fondées...</desc>
+        <icon src="https://images.pluto.tv/series/5fe1c9d60dddaf0013b90848/tile_1781024401758.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ecc7aa44d9c00081fca29" start="20260710230500 +0000" stop="20260711020000 +0000">
         <title>iCarly TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8ecc7aa44d9c00081fca29/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31386,7 +31751,17 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>Les deux finalistes s'affrontent pour le grand prix dans un duel sur le thème du cirque.</desc>
         <icon src="https://images.pluto.tv/series/612f795488b83100139beea0/tile_1768080960942.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8ed48146ba9e00078424b6" start="20260710221646 +0000" stop="20260711020000 +0000">
+    <programme channel="5f8ed48146ba9e00078424b6" start="20260710221646 +0000" stop="20260710223946 +0000">
+        <title>Donut Showdown: Fiesta</title>
+        <desc>Les deux finalistes s'affrontent dans un duel sur le thème de la fiesta, pour le grand prix de 10 000 $.</desc>
+        <icon src="https://images.pluto.tv/series/612f795488b83100139beea0/tile_1768080960942.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ed48146ba9e00078424b6" start="20260710223946 +0000" stop="20260710230246 +0000">
+        <title>Donut Showdown: Mascarade</title>
+        <desc>Les deux finalistes s'affrontent pour le grand prix de 10 000 $ dans un duel sur le thème de la mascarade.</desc>
+        <icon src="https://images.pluto.tv/series/612f795488b83100139beea0/tile_1768080960942.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ed48146ba9e00078424b6" start="20260710230246 +0000" stop="20260711020000 +0000">
         <title>Pluto TV Cuisine</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8ed48146ba9e00078424b6/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31396,7 +31771,17 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>L'équipe de Jackass joue avec des alligators et des chiens, tout en divertissant ses spectateurs avec un barbecue, de la boxe et du kayak.</desc>
         <icon src="https://images.pluto.tv/series/6041ec5b4a69b8001a39473c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f92b56a367e170007cd43f4" start="20260710221644 +0000" stop="20260711020000 +0000">
+    <programme channel="5f92b56a367e170007cd43f4" start="20260710221644 +0000" stop="20260710224044 +0000">
+        <title>Jackass: Poo Poo Platter</title>
+        <desc>L'équipe de Jackass lutte et bronze. Les excréments sont au centre de cet épisode. Ils terminent l'émission par un défi spécial avec les œufs.</desc>
+        <icon src="https://images.pluto.tv/series/6041ec5b4a69b8001a39473c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f92b56a367e170007cd43f4" start="20260710224044 +0000" stop="20260710230444 +0000">
+        <title>Jackass: Mianus</title>
+        <desc>L'équipe de Jackass enfile un "beekini" moulant, tond la pelouse et gifle des idiots. Ils finissent par faire un plongeon dans le caca.</desc>
+        <icon src="https://images.pluto.tv/series/6041ec5b4a69b8001a39473c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f92b56a367e170007cd43f4" start="20260710230444 +0000" stop="20260711020000 +0000">
         <title>MTV CLASSICS</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f92b56a367e170007cd43f4/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31406,7 +31791,17 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>Qui vit dans un ananas sous la mer ? Bob l'éponge ! Plongez dans Bikini Bottom et suivez les aventures hilarantes de Bob l'éponge, Patrick et Carlo.</desc>
         <icon src="https://images.pluto.tv/series/66914606fe11e500082fb64f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5ffc8c345822750007e167de" start="20260710222314 +0000" stop="20260711020000 +0000">
+    <programme channel="5ffc8c345822750007e167de" start="20260710222314 +0000" stop="20260710225314 +0000">
+        <title>Bob l'éponge</title>
+        <desc>Qui vit dans un ananas sous la mer ? Bob l'éponge ! Plongez dans Bikini Bottom et suivez les aventures hilarantes de Bob l'éponge, Patrick et Carlo.</desc>
+        <icon src="https://images.pluto.tv/series/66914606fe11e500082fb64f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5ffc8c345822750007e167de" start="20260710225314 +0000" stop="20260710232314 +0000">
+        <title>Bob l'éponge</title>
+        <desc>Qui vit dans un ananas sous la mer ? Bob l'éponge ! Plongez dans Bikini Bottom et suivez les aventures hilarantes de Bob l'éponge, Patrick et Carlo.</desc>
+        <icon src="https://images.pluto.tv/series/66914606fe11e500082fb64f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5ffc8c345822750007e167de" start="20260710232314 +0000" stop="20260711020000 +0000">
         <title>Bob l'éponge</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5ffc8c345822750007e167de/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31416,7 +31811,12 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>Les fauves africains ont évolué en développant des stratégies pour coexister.</desc>
         <icon src="https://images.pluto.tv/series/636e3b55576be6001373ab12/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60925a44f0350600075a1fdc" start="20260710224040 +0000" stop="20260711020000 +0000">
+    <programme channel="60925a44f0350600075a1fdc" start="20260710224040 +0000" stop="20260710233140 +0000">
+        <title>Icônes de la vie sauvage: La vie dans la savane</title>
+        <desc>Les lions, léopards, buffles, rhinocéros et éléphants d'Afrique ont la vie dure.</desc>
+        <icon src="https://images.pluto.tv/series/636e3b55576be6001373ab12/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60925a44f0350600075a1fdc" start="20260710233140 +0000" stop="20260711020000 +0000">
         <title>Pluto TV Animaux</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60925a44f0350600075a1fdc/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31426,7 +31826,22 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>Bienvenue dans l'univers de Charlotte aux Fraises : Un monde sucré où tout n'est que joie et bonheur pour les tout petits!</desc>
         <icon src="https://images.pluto.tv/series/62df836a80410e0013da7d7c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60dc6937b450ad0007377e48" start="20260710220800 +0000" stop="20260711020000 +0000">
+    <programme channel="60dc6937b450ad0007377e48" start="20260710220800 +0000" stop="20260710223300 +0000">
+        <title>Charlotte aux Fraises: Le fraisi festival des fraisiers en fleurs, pt. 1</title>
+        <desc>Bienvenue dans l'univers de Charlotte aux Fraises : Un monde sucré où tout n'est que joie et bonheur pour les tout petits!</desc>
+        <icon src="https://images.pluto.tv/series/62df836a80410e0013da7d7c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60dc6937b450ad0007377e48" start="20260710223300 +0000" stop="20260710225800 +0000">
+        <title>Charlotte aux Fraises: Le fraisi festival des fraisiers en fleurs, pt. 2</title>
+        <desc>Bienvenue dans l'univers de Charlotte aux Fraises : Un monde sucré où tout n'est que joie et bonheur pour les tout petits!</desc>
+        <icon src="https://images.pluto.tv/series/62df836a80410e0013da7d7c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60dc6937b450ad0007377e48" start="20260710225800 +0000" stop="20260710232300 +0000">
+        <title>Charlotte aux Fraises: Un, deux, trois, dansez! pt. 1</title>
+        <desc>Bienvenue dans l'univers de Charlotte aux Fraises : Un monde sucré où tout n'est que joie et bonheur pour les tout petits!</desc>
+        <icon src="https://images.pluto.tv/series/62df835080410e0013da773b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60dc6937b450ad0007377e48" start="20260710232300 +0000" stop="20260711020000 +0000">
         <title>Charlotte aux Fraises</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60dc6937b450ad0007377e48/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31436,7 +31851,17 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>Tex et Sid peinent à jouer "Magnifiques 7" quand un directeur fait des coupes budgétaires. // Gengis est un agent secret du H.O.R.D.E. qui doit voler un sérum top secret. // Einstone apprend à une Néandertalienne à se laver, à s'habiller et à parler.</desc>
         <icon src="https://images.pluto.tv/series/619b5fab178ebd001376bafd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="611e6ddc7fcd580007d1eb5f" start="20260710222415 +0000" stop="20260711020000 +0000">
+    <programme channel="611e6ddc7fcd580007d1eb5f" start="20260710222415 +0000" stop="20260710224915 +0000">
+        <title>Le Monde Fou de Tex Avery: Euh-mesticated // Cousin bourdonnant // 20/20 La sagesse de la meute</title>
+        <desc>Einstone veut savoir comment les hommes de Neandertal rencontrent des filles. // Genghis et l'Empereur ont conquis la planète, sauf l'Atlantide et son trésor. // Mooch veut ajouter Maurice à une recette et l'aide dans son expérience scientifique.</desc>
+        <icon src="https://images.pluto.tv/series/619b5fab178ebd001376bafd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="611e6ddc7fcd580007d1eb5f" start="20260710224915 +0000" stop="20260710231415 +0000">
+        <title>Le Monde Fou de Tex Avery: Le Texorciste // Einstone en extase // Que le plus stressé gagne</title>
+        <desc>Einstone invite des filles préhistoriques pour une fête et dresse un dinosaure de garde. // Amanda apprend que Mabel-Lee est pire que Freddy. // Le propriétaire de Pooch, LE LIEUTENANT est ravi de sa remise de prix. Mais Pooch croit que c'est un piège !</desc>
+        <icon src="https://images.pluto.tv/series/619b5fab178ebd001376bafd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="611e6ddc7fcd580007d1eb5f" start="20260710231415 +0000" stop="20260711020000 +0000">
         <title>Pluto TV Kids Club</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/611e6ddc7fcd580007d1eb5f/featuredImage_1748852014629.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31446,7 +31871,12 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>Paul se dirige vers les montagnes du Pacifique Nord-Ouest du Canada pour aider à terminer la reconstruction d'un véhicule militaire rare.</desc>
         <icon src="https://images.pluto.tv/series/6825ae781426f2773e33b44a/tile_1768266361788.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="611e771e2f5f180007002224" start="20260710221914 +0000" stop="20260711020000 +0000">
+    <programme channel="611e771e2f5f180007002224" start="20260710221914 +0000" stop="20260710231335 +0000">
+        <title>Aux Armes!</title>
+        <desc>Paul Shull recherche le meilleur fusil de précision de la Seconde Guerre mondiale.</desc>
+        <icon src="https://images.pluto.tv/series/6825ae781426f2773e33b44a/tile_1768266361788.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="611e771e2f5f180007002224" start="20260710231335 +0000" stop="20260711020000 +0000">
         <title>Pluto TV Histoire</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/611e771e2f5f180007002224/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31456,7 +31886,22 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>Colton et Jack partent à la découverte du nord de la Californie. Ils s'arrêtent notamment au Point Reyes National Seashore, au pont du Golden Gate et sur l'île d'Alcatraz.</desc>
         <icon src="https://images.pluto.tv/series/66ebde38f4fe1500137fc518/tile_1768347980367.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="611e7811eb9daf000764cbfd" start="20260710220612 +0000" stop="20260711020000 +0000">
+    <programme channel="611e7811eb9daf000764cbfd" start="20260710220612 +0000" stop="20260710223005 +0000">
+        <title>A La Conquete Des Parcs Americains</title>
+        <desc>Pour le 100e épisode de « À la conquête des parcs américains », Jack et Colton découvrent le Grand Canyon comme le font moins de 1 % des visiteurs : en le parcourant à pied d'un bord à l'autre.</desc>
+        <icon src="https://images.pluto.tv/series/66ebde38f4fe1500137fc518/tile_1768347980367.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="611e7811eb9daf000764cbfd" start="20260710223005 +0000" stop="20260710225355 +0000">
+        <title>A La Conquete Des Parcs Americains</title>
+        <desc>Sophia Bush rejoint Jack et Colton alors qu'ils retournent dans le parc national du Denali, en Alaska. Cette excursion prend du poil de la bête quand nos trois voyageurs plongent dans l'univers des chiens de traîneaux.</desc>
+        <icon src="https://images.pluto.tv/series/66ebde38f4fe1500137fc518/tile_1768347980367.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="611e7811eb9daf000764cbfd" start="20260710225355 +0000" stop="20260710231748 +0000">
+        <title>A La Conquete Des Parcs Americains</title>
+        <desc>Un tronçon de 450 kilomètres de la route 50 est surnommé « la route la plus solitaire d'Amérique ». Jack et Colton, qui adorent les virées en voiture, décident de prouver que cette partie du Nevada est peut-être isolée, mais nullement ennuyeuse.</desc>
+        <icon src="https://images.pluto.tv/series/66ebde38f4fe1500137fc518/tile_1768347980367.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="611e7811eb9daf000764cbfd" start="20260710231748 +0000" stop="20260711020000 +0000">
         <title>Pluto TV Aventure</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/611e7811eb9daf000764cbfd/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31466,7 +31911,17 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>NatureTime est une chaîne gratuite proposant des récits sur la nature, la faune et la flore du monde entier. Appréciés à tout âge et à tout moment, nos contenus présentent aux utilisateurs la beauté et la complexité de notre monde.</desc>
         <icon src="https://images.pluto.tv/series/62345340871742000737f940/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="61fc0df14159c40007250432" start="20260710220423 +0000" stop="20260711020000 +0000">
+    <programme channel="61fc0df14159c40007250432" start="20260710220423 +0000" stop="20260710223423 +0000">
+        <title>Nature Time</title>
+        <desc>NatureTime est une chaîne gratuite proposant des récits sur la nature, la faune et la flore du monde entier. Appréciés à tout âge et à tout moment, nos contenus présentent aux utilisateurs la beauté et la complexité de notre monde.</desc>
+        <icon src="https://images.pluto.tv/series/62345340871742000737f940/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="61fc0df14159c40007250432" start="20260710223423 +0000" stop="20260710230423 +0000">
+        <title>Nature Time</title>
+        <desc>NatureTime est une chaîne gratuite proposant des récits sur la nature, la faune et la flore du monde entier. Appréciés à tout âge et à tout moment, nos contenus présentent aux utilisateurs la beauté et la complexité de notre monde.</desc>
+        <icon src="https://images.pluto.tv/series/62345340871742000737f940/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="61fc0df14159c40007250432" start="20260710230423 +0000" stop="20260711020000 +0000">
         <title>Nature Time</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/61fc0df14159c40007250432/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31486,7 +31941,17 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>Echappées belles &amp; co: la chaîne de référence du voyage, de la découverte et de l'évasion. 100 heures de programmes sur toutes les destinations en france et dans le monde.</desc>
         <icon src="https://images.pluto.tv/series/648c2c0c66e4850008441b81/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="63b578b524f0cf00072f2a52" start="20260710223000 +0000" stop="20260711020000 +0000">
+    <programme channel="63b578b524f0cf00072f2a52" start="20260710223000 +0000" stop="20260710230000 +0000">
+        <title>Échappées Belles</title>
+        <desc>Echappées belles &amp; co: la chaîne de référence du voyage, de la découverte et de l'évasion. 100 heures de programmes sur toutes les destinations en france et dans le monde.</desc>
+        <icon src="https://images.pluto.tv/series/648c2c0c66e4850008441b81/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63b578b524f0cf00072f2a52" start="20260710230000 +0000" stop="20260710233000 +0000">
+        <title>Échappées Belles</title>
+        <desc>Echappées belles &amp; co: la chaîne de référence du voyage, de la découverte et de l'évasion. 100 heures de programmes sur toutes les destinations en france et dans le monde.</desc>
+        <icon src="https://images.pluto.tv/series/648c2c0c66e4850008441b81/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63b578b524f0cf00072f2a52" start="20260710233000 +0000" stop="20260711020000 +0000">
         <title>Echappées Belles &amp; Co</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/63b578b524f0cf00072f2a52/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31496,7 +31961,17 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>Aux États-Unis, plus de 10 000 unités de stockage sont mises aux enchères chaque jour. Clinton 'Ton' Jones et Allen Haff essaient de gagner des enchères, d'acquérir des trésors et de les vendre à profit.</desc>
         <icon src="https://images.pluto.tv/series/64f02c60cecd3f0013eab748/tile_1780400521458.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="64bab8ba5dc1660008969b5a" start="20260710221500 +0000" stop="20260711020000 +0000">
+    <programme channel="64bab8ba5dc1660008969b5a" start="20260710221500 +0000" stop="20260710223900 +0000">
+        <title>Auction Hunters: Les gangs de New York</title>
+        <desc>Aux États-Unis, plus de 10 000 unités de stockage sont mises aux enchères chaque jour. Clinton 'Ton' Jones et Allen Haff essaient de gagner des enchères, d'acquérir des trésors et de les vendre à profit.</desc>
+        <icon src="https://images.pluto.tv/series/64f02c60cecd3f0013eab748/tile_1780400521458.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64bab8ba5dc1660008969b5a" start="20260710223900 +0000" stop="20260710230300 +0000">
+        <title>Auction Hunters: Viva la Vegas</title>
+        <desc>Aux États-Unis, plus de 10 000 unités de stockage sont mises aux enchères chaque jour. Clinton 'Ton' Jones et Allen Haff essaient de gagner des enchères, d'acquérir des trésors et de les vendre à profit.</desc>
+        <icon src="https://images.pluto.tv/series/64f02c60cecd3f0013eab748/tile_1780400521458.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64bab8ba5dc1660008969b5a" start="20260710230300 +0000" stop="20260711020000 +0000">
         <title>Adjugé, vendu !</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/64bab8ba5dc1660008969b5a/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31506,7 +31981,17 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>Corneil est un petit chien surdoué. Tout bascule le jour où ses riches propriétaires décident d'engager Bernie, un adolescent drôle et excentrique, comme ' dogsitter ', qui ne va pas tarder à découvrir le don de Corneil...</desc>
         <icon src="https://images.pluto.tv/series/64d48820445a8a0013e7925c/tile_1776242881167.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="652557d93fd33c000802f995" start="20260710222049 +0000" stop="20260711020000 +0000">
+    <programme channel="652557d93fd33c000802f995" start="20260710222049 +0000" stop="20260710224814 +0000">
+        <title>Corneil et Bernie</title>
+        <desc>Corneil est un petit chien surdoué. Tout bascule le jour où ses riches propriétaires décident d'engager Bernie, un adolescent drôle et excentrique, comme ' dogsitter ', qui ne va pas tarder à découvrir le don de Corneil...</desc>
+        <icon src="https://images.pluto.tv/series/64d48820445a8a0013e7925c/tile_1776242881167.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="652557d93fd33c000802f995" start="20260710224814 +0000" stop="20260710231658 +0000">
+        <title>Corneil et Bernie</title>
+        <desc>Corneil est un petit chien surdoué. Tout bascule le jour où ses riches propriétaires décident d'engager Bernie, un adolescent drôle et excentrique, comme ' dogsitter ', qui ne va pas tarder à découvrir le don de Corneil...</desc>
+        <icon src="https://images.pluto.tv/series/64d48820445a8a0013e7925c/tile_1776242881167.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="652557d93fd33c000802f995" start="20260710231658 +0000" stop="20260711020000 +0000">
         <title>Pluto TV Super Kids</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/652557d93fd33c000802f995/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31516,7 +32001,17 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>Remontez le temps avec Pluto TV Kids Classics ! Plongez dans des aventures nostalgiques avec Hey Arnold, Rocket Power, Angry Beavers et Jimmy Neutron. Revivez le plaisir, les rires et les moments inoubliables.</desc>
         <icon src="https://images.pluto.tv/series/682483cb5c6467519567cb67/tile_1747223499970.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="654a58dbf9cc82000868f0fb" start="20260710221721 +0000" stop="20260711020000 +0000">
+    <programme channel="654a58dbf9cc82000868f0fb" start="20260710221721 +0000" stop="20260710224721 +0000">
+        <title>Pluto TV Kids Classics</title>
+        <desc>Remontez le temps avec Pluto TV Kids Classics ! Plongez dans des aventures nostalgiques avec Hey Arnold, Rocket Power, Angry Beavers et Jimmy Neutron. Revivez le plaisir, les rires et les moments inoubliables.</desc>
+        <icon src="https://images.pluto.tv/series/682483cb5c6467519567cb67/tile_1747223499970.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654a58dbf9cc82000868f0fb" start="20260710224721 +0000" stop="20260710231721 +0000">
+        <title>Pluto TV Kids Classics</title>
+        <desc>Remontez le temps avec Pluto TV Kids Classics ! Plongez dans des aventures nostalgiques avec Hey Arnold, Rocket Power, Angry Beavers et Jimmy Neutron. Revivez le plaisir, les rires et les moments inoubliables.</desc>
+        <icon src="https://images.pluto.tv/series/682483cb5c6467519567cb67/tile_1747223499970.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654a58dbf9cc82000868f0fb" start="20260710231721 +0000" stop="20260711020000 +0000">
         <title>Pluto TV Kids Classics</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/654a58dbf9cc82000868f0fb/featuredImage_1750151456845.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31526,7 +32021,17 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>Sur AlloCiné, la chaîne de référence du cinéma et des séries, retrouvez des programmes cultes comme "Faux Raccord", le top des bandes annonces ainsi que l'actualité ciné et série du moment.</desc>
         <icon src="https://images.pluto.tv/series/66acce56d2d50d00082edcfe/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6618e3037bcd8600089b62a8" start="20260710223000 +0000" stop="20260711020000 +0000">
+    <programme channel="6618e3037bcd8600089b62a8" start="20260710223000 +0000" stop="20260710230000 +0000">
+        <title>Allociné</title>
+        <desc>Sur AlloCiné, la chaîne de référence du cinéma et des séries, retrouvez des programmes cultes comme "Faux Raccord", le top des bandes annonces ainsi que l'actualité ciné et série du moment.</desc>
+        <icon src="https://images.pluto.tv/series/66acce56d2d50d00082edcfe/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6618e3037bcd8600089b62a8" start="20260710230000 +0000" stop="20260710233000 +0000">
+        <title>Allociné</title>
+        <desc>Sur AlloCiné, la chaîne de référence du cinéma et des séries, retrouvez des programmes cultes comme "Faux Raccord", le top des bandes annonces ainsi que l'actualité ciné et série du moment.</desc>
+        <icon src="https://images.pluto.tv/series/66acce56d2d50d00082edcfe/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6618e3037bcd8600089b62a8" start="20260710233000 +0000" stop="20260711020000 +0000">
         <title>Allociné</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6618e3037bcd8600089b62a8/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31536,7 +32041,17 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>Zone Interdite est depuis trente ans le magazine qui documente et décrypte les bouleversements de la société française. Réalisées sur la durée, les enquêtes diffusées révèlent les tabous, les passions et les combats des Français au cœur de l'actualité.</desc>
         <icon src="https://images.pluto.tv/series/67404a61daad7f0008b9fdd9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66f55cf2483d460008f68746" start="20260710223000 +0000" stop="20260711020000 +0000">
+    <programme channel="66f55cf2483d460008f68746" start="20260710223000 +0000" stop="20260710230000 +0000">
+        <title>Zone Interdite</title>
+        <desc>Zone Interdite est depuis trente ans le magazine qui documente et décrypte les bouleversements de la société française. Réalisées sur la durée, les enquêtes diffusées révèlent les tabous, les passions et les combats des Français au cœur de l'actualité.</desc>
+        <icon src="https://images.pluto.tv/series/67404a61daad7f0008b9fdd9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66f55cf2483d460008f68746" start="20260710230000 +0000" stop="20260710233000 +0000">
+        <title>Zone Interdite</title>
+        <desc>Zone Interdite est depuis trente ans le magazine qui documente et décrypte les bouleversements de la société française. Réalisées sur la durée, les enquêtes diffusées révèlent les tabous, les passions et les combats des Français au cœur de l'actualité.</desc>
+        <icon src="https://images.pluto.tv/series/67404a61daad7f0008b9fdd9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66f55cf2483d460008f68746" start="20260710233000 +0000" stop="20260711020000 +0000">
         <title>Zone Interdite</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66f55cf2483d460008f68746/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31546,7 +32061,17 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>Des experts de la mode ont créé une agence pas comme les autres pour venir en aide à des clients qui se plaignent du look de l'un de leurs proches, qu'il est urgent de changer ! Mais pour nos experts, pas de soucis, car aucun look ne les arrête…</desc>
         <icon src="https://images.pluto.tv/series/6740983bcf55710008804c5c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66f55d205e4a6e0008c2b92b" start="20260710223000 +0000" stop="20260711020000 +0000">
+    <programme channel="66f55d205e4a6e0008c2b92b" start="20260710223000 +0000" stop="20260710230000 +0000">
+        <title>Incroyables Transformations</title>
+        <desc>Des experts de la mode ont créé une agence pas comme les autres pour venir en aide à des clients qui se plaignent du look de l'un de leurs proches, qu'il est urgent de changer ! Mais pour nos experts, pas de soucis, car aucun look ne les arrête…</desc>
+        <icon src="https://images.pluto.tv/series/6740983bcf55710008804c5c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66f55d205e4a6e0008c2b92b" start="20260710230000 +0000" stop="20260710233000 +0000">
+        <title>Incroyables Transformations</title>
+        <desc>Des experts de la mode ont créé une agence pas comme les autres pour venir en aide à des clients qui se plaignent du look de l'un de leurs proches, qu'il est urgent de changer ! Mais pour nos experts, pas de soucis, car aucun look ne les arrête…</desc>
+        <icon src="https://images.pluto.tv/series/6740983bcf55710008804c5c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66f55d205e4a6e0008c2b92b" start="20260710233000 +0000" stop="20260711020000 +0000">
         <title>Incroyables Transformations</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66f55d205e4a6e0008c2b92b/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31556,7 +32081,12 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>Les tensions atteignent un point de rupture au sein de la flotte de Gloucester, et les relations entre les capitaines, les seconds et les navires se désagrègent.</desc>
         <icon src="https://images.pluto.tv/series/6810a8c012cab50db67f68cd/tile_1776243961318.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="678f894ef5c74bff95c20a7f" start="20260710225351 +0000" stop="20260711020000 +0000">
+    <programme channel="678f894ef5c74bff95c20a7f" start="20260710225351 +0000" stop="20260710234753 +0000">
+        <title>Wicked Tuna</title>
+        <desc>L'Atlantique Nord est le théâtre d'une lutte acharnée entre deux des meilleurs pêcheurs de Gloucester, Paul Hebert et Dave Carraro. Ces anciens amis tentent de se surpasser l'un l'autre.</desc>
+        <icon src="https://images.pluto.tv/series/6810a8c012cab50db67f68cd/tile_1776243961318.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="678f894ef5c74bff95c20a7f" start="20260710234753 +0000" stop="20260711020000 +0000">
         <title>Pêche à haut risque</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/678f894ef5c74bff95c20a7f/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31576,7 +32106,17 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>Bienvenue sur la chaîne Rencontres, la destination ultime pour des émissions de rencontres qui vous plongent dans la passion, le drame et des rencontres touchantes !</desc>
         <icon src="https://images.pluto.tv/series/68517e37f7d8b74b620adaa4/tile_1750667774479.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="682318568e6c0f2f6c6e0038" start="20260710223000 +0000" stop="20260711020000 +0000">
+    <programme channel="682318568e6c0f2f6c6e0038" start="20260710223000 +0000" stop="20260710230000 +0000">
+        <title>Pluto TV Dating</title>
+        <desc>Bienvenue sur la chaîne Rencontres, la destination ultime pour des émissions de rencontres qui vous plongent dans la passion, le drame et des rencontres touchantes !</desc>
+        <icon src="https://images.pluto.tv/series/68517e37f7d8b74b620adaa4/tile_1750667774479.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="682318568e6c0f2f6c6e0038" start="20260710230000 +0000" stop="20260710233000 +0000">
+        <title>Pluto TV Dating</title>
+        <desc>Bienvenue sur la chaîne Rencontres, la destination ultime pour des émissions de rencontres qui vous plongent dans la passion, le drame et des rencontres touchantes !</desc>
+        <icon src="https://images.pluto.tv/series/68517e37f7d8b74b620adaa4/tile_1750667774479.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="682318568e6c0f2f6c6e0038" start="20260710233000 +0000" stop="20260711020000 +0000">
         <title>Pluto TV Dating</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/682318568e6c0f2f6c6e0038/featuredImage_1750772750994.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31586,7 +32126,12 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>Les nouvelles peintures, une maison des années 70-80 dans le Vaucluse, les nouveaux buffets, les consoles</desc>
         <icon src="https://images.pluto.tv/series/6890b8a89017101f0505054d/tile_1754314921722.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="685a999bd33909bdd7d2fb1e" start="20260710221807 +0000" stop="20260711020000 +0000">
+    <programme channel="685a999bd33909bdd7d2fb1e" start="20260710221807 +0000" stop="20260711000300 +0000">
+        <title>La Maison France 5</title>
+        <desc>Un appartement du 6e arrondissement, les verres de table, velours retour gagnant et un petit appartement dans le Marais</desc>
+        <icon src="https://images.pluto.tv/series/6890b8a89017101f0505054d/tile_1754314921722.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="685a999bd33909bdd7d2fb1e" start="20260711000300 +0000" stop="20260711020000 +0000">
         <title>La maison France 5</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/685a999bd33909bdd7d2fb1e/featuredImage_1751876561893.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31596,7 +32141,17 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>Barbie et ses amies célèbrent l’été !</desc>
         <icon src="https://images.pluto.tv/series/690dcbb63fb09016da0c75fd/tile_1779112441275.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="686e7499e0ecf0e0cc25dbe3" start="20260710220927 +0000" stop="20260711020000 +0000">
+    <programme channel="686e7499e0ecf0e0cc25dbe3" start="20260710220927 +0000" stop="20260710222814 +0000">
+        <title>Barbie Dream Squad, Troop Rainbow</title>
+        <desc>Barbie sauvera-t-elle les Mini-mini Extra d’une attaque de slime ?</desc>
+        <icon src="https://images.pluto.tv/series/691450cb3fb09016da89a36d/tile_1762941037388.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="686e7499e0ecf0e0cc25dbe3" start="20260710222814 +0000" stop="20260710230435 +0000">
+        <title>Barbie: Vlogger</title>
+        <desc>Bonjour tout le monde, bienvenue sur mon vlog ! Je partage les meilleurs moments de ma vie, mes rêves et mes choses préférées.</desc>
+        <icon src="https://images.pluto.tv/series/6916f3c830e0de160762db7e/tile_1778784122001.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="686e7499e0ecf0e0cc25dbe3" start="20260710230435 +0000" stop="20260711020000 +0000">
         <title>Barbie &amp; Friends</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/686e7499e0ecf0e0cc25dbe3/featuredImage_1765805978819.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31606,7 +32161,17 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>Gordon heurte des wagons et ses tampons se détachent. Il est horrifié quand on lui attribue un tampon de Diesel à la place !</desc>
         <icon src="https://images.pluto.tv/series/69281ce88e21e6575a259f2a/tile_1764246923434.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="686e74b0e48af72bc266e798" start="20260710221957 +0000" stop="20260711020000 +0000">
+    <programme channel="686e74b0e48af72bc266e798" start="20260710221957 +0000" stop="20260710224444 +0000">
+        <title>Pingu</title>
+        <desc>Suis Pingu, un petit pingouin curieux et malicieux qui découvre le monde glacé du pôle Sud ! Entre bêtises, fous rires et tendresse, il apprend la vie aux côtés de sa famille et de ses amis dans une série drôle, universelle et pleine de charme.</desc>
+        <icon src="https://images.pluto.tv/series/691ae8486fe1b6a13dba3f85/tile_1763371083473.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="686e74b0e48af72bc266e798" start="20260710224444 +0000" stop="20260710230927 +0000">
+        <title>Pingu</title>
+        <desc>Suis Pingu, un petit pingouin curieux et malicieux qui découvre le monde glacé du pôle Sud ! Entre bêtises, fous rires et tendresse, il apprend la vie aux côtés de sa famille et de ses amis dans une série drôle, universelle et pleine de charme.</desc>
+        <icon src="https://images.pluto.tv/series/691ae8486fe1b6a13dba3f85/tile_1763371083473.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="686e74b0e48af72bc266e798" start="20260710230927 +0000" stop="20260711020000 +0000">
         <title>Mattel Junior</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/686e74b0e48af72bc266e798/featuredImage_1765806081318.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31616,7 +32181,22 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>L'aiguille magique / Les crêpes du schtroumpf gourmand</desc>
         <icon src="https://images.pluto.tv/series/68e3e1e0fa0f5ccff5c96e42/tile_1776241801722.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68b16d2282862c1f067dc763" start="20260710220152 +0000" stop="20260711020000 +0000">
+    <programme channel="68b16d2282862c1f067dc763" start="20260710220152 +0000" stop="20260710222915 +0000">
+        <title>Les Schtroumpfs</title>
+        <desc>Les schtroumpfs pétrifiés / Les nouveaux nez</desc>
+        <icon src="https://images.pluto.tv/series/68e3e1e0fa0f5ccff5c96e42/tile_1776241801722.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68b16d2282862c1f067dc763" start="20260710222915 +0000" stop="20260710225637 +0000">
+        <title>Les Schtroumpfs</title>
+        <desc>Les verrues du grand schtroumpf / Le schtroumpfateur schtroumpfomatique</desc>
+        <icon src="https://images.pluto.tv/series/68e3e1e0fa0f5ccff5c96e42/tile_1776241801722.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68b16d2282862c1f067dc763" start="20260710225637 +0000" stop="20260710232351 +0000">
+        <title>Les Schtroumpfs</title>
+        <desc>La surprise-partie du schtroumpf paresseux / La course schtroumpfomobile</desc>
+        <icon src="https://images.pluto.tv/series/68e3e1e0fa0f5ccff5c96e42/tile_1776241801722.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68b16d2282862c1f067dc763" start="20260710232351 +0000" stop="20260711020000 +0000">
         <title>Les Schtroumpfs</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/68b16d2282862c1f067dc763/featuredImage_1760383269925.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31626,17 +32206,22 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>Le monde vu depuis l'espace, en temps réel. Connectée directement aux caméras de la Station Spatiale Internationale, cette chaîne propose le premier livestream continu de la Terre. L'expérience spatiale ultime, accessible à tous.</desc>
         <icon src="https://images.pluto.tv/series/69e202574b6ab63ae845e815/tile_1776419448429.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="69b3db536c0414a7ecf564fb" start="20260710221834 +0000" stop="20260711020000 +0000">
+    <programme channel="69b3db536c0414a7ecf564fb" start="20260710221834 +0000" stop="20260710224834 +0000">
+        <title>Space Live</title>
+        <desc>Le monde vu depuis l'espace, en temps réel. Connectée directement aux caméras de la Station Spatiale Internationale, cette chaîne propose le premier livestream continu de la Terre. L'expérience spatiale ultime, accessible à tous.</desc>
+        <icon src="https://images.pluto.tv/series/69e202574b6ab63ae845e815/tile_1776419448429.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69b3db536c0414a7ecf564fb" start="20260710224834 +0000" stop="20260710231834 +0000">
+        <title>Space Live</title>
+        <desc>Le monde vu depuis l'espace, en temps réel. Connectée directement aux caméras de la Station Spatiale Internationale, cette chaîne propose le premier livestream continu de la Terre. L'expérience spatiale ultime, accessible à tous.</desc>
+        <icon src="https://images.pluto.tv/series/69e202574b6ab63ae845e815/tile_1776419448429.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69b3db536c0414a7ecf564fb" start="20260710231834 +0000" stop="20260711020000 +0000">
         <title>Space Live</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/69b3db536c0414a7ecf564fb/featuredImage_1775061732639.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="5f8eb8a8b2619a000710605c" start="20260710213800 +0000" stop="20260710220800 +0000">
-        <title>Ridiculousness</title>
-        <desc>Rob Dyrdek, Sterling Steelo Brim et Chanel West Coast, réceptionniste et rappeuse de la Fantasy Factory, coaniment Ridiculous, un concentré de vidéos virales sur Internet. Des personnalités de marque sont régulièrement invitées.</desc>
-        <icon src="https://images.pluto.tv/series/68760cbb2704ca31d8431460/tile_1752574657481.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f8eb8a8b2619a000710605c" start="20260710220800 +0000" stop="20260711020000 +0000">
+    <programme channel="5f8eb8a8b2619a000710605c" start="20260710220000 +0000" stop="20260711020000 +0000">
         <title>Ridiculousness</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8eb8a8b2619a000710605c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31646,7 +32231,22 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>Greg James a concocté une compilation de vidéos amusantes avec des petits garnements en vedettes.</desc>
         <icon src="https://images.pluto.tv/series/6020fa132cca48001a5026c3/tile_1777502883753.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8eb91bb9b9e7000817e67f" start="20260710220815 +0000" stop="20260711020000 +0000">
+    <programme channel="5f8eb91bb9b9e7000817e67f" start="20260710220815 +0000" stop="20260710223215 +0000">
+        <title>Most Ridiculous: Les chats</title>
+        <desc>Une compilation de gags avec les stars d'Internet : les chats.</desc>
+        <icon src="https://images.pluto.tv/series/6020fa132cca48001a5026c3/tile_1777502883753.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8eb91bb9b9e7000817e67f" start="20260710223215 +0000" stop="20260710225615 +0000">
+        <title>Most Ridiculous: Nos Amis les Animaux</title>
+        <desc>Cet épisode est consacré à nos amis les animaux : chiens, chats, chevaux, chèvres, lions.</desc>
+        <icon src="https://images.pluto.tv/series/6020fa132cca48001a5026c3/tile_1777502883753.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8eb91bb9b9e7000817e67f" start="20260710225615 +0000" stop="20260710232015 +0000">
+        <title>Most Ridiculous: Spectacle Vivant</title>
+        <desc>Artistes de rue, acrobates, danseurs, musiciens, tout le monde y passe dans cet épisode consacré au spectacle vivant. Le Must du Ridicule, c'est encore mieux face à un public.</desc>
+        <icon src="https://images.pluto.tv/series/6020fa132cca48001a5026c3/tile_1777502883753.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8eb91bb9b9e7000817e67f" start="20260710232015 +0000" stop="20260711020000 +0000">
         <title>Pluto TV Comédie</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8eb91bb9b9e7000817e67f/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31656,7 +32256,22 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>Une super surprise attend Dora et Babouche à la maison. Ils doivent se dépêcher de rentrer ! Pas de problème, Super Carte est là ! Avec ses super pouvoirs, elle t'aidera même à repousser Chipeur.</desc>
         <icon src="https://images.pluto.tv/series/6a04e415895ed2760f4c09e4/tile_1783622950108.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8ecb336537e8000764a17f" start="20260710220553 +0000" stop="20260711020000 +0000">
+    <programme channel="5f8ecb336537e8000764a17f" start="20260710220553 +0000" stop="20260710223035 +0000">
+        <title>Go Diego !</title>
+        <desc>Alicia ouvre une nouvelle bibliothèque en haut de la montagne. Linda le lama était censé apporter les livres - mais elle est en retard et il est presque l'heure d'ouvrir la bibliothèque!</desc>
+        <icon src="https://images.pluto.tv/series/6a0c9ec6c3b94036591c3943/tile_1783622952706.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ecb336537e8000764a17f" start="20260710223036 +0000" stop="20260710225348 +0000">
+        <title>Go Diego !</title>
+        <desc>Les ouisititis pygmée ont un gros bobo! Aide Diego et Alicia à les emmener à l'arbre qui soigne, à trouver de la nourriture pour leur famille, à échapper aux serres d'un aigle harpie et à rentrer chez eux à temps pour le dîner!</desc>
+        <icon src="https://images.pluto.tv/series/6a0c9ec6c3b94036591c3943/tile_1783622952706.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ecb336537e8000764a17f" start="20260710225348 +0000" stop="20260710231634 +0000">
+        <title>Blaze et les Monster Machines</title>
+        <desc>Blaze fait connaissance avec les Monster Machines et plus particulièrement avec Crusher, un concurrent prêt à tout pour gagner.</desc>
+        <icon src="https://images.pluto.tv/series/6a04e416ea95ffff09c0b925/tile_1783622950054.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ecb336537e8000764a17f" start="20260710231634 +0000" stop="20260711020000 +0000">
         <title>Pluto TV Junior</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8ecb336537e8000764a17f/featuredImage_1748328453416.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31666,7 +32281,17 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>Tracks include "Hold Me Back," "Bad Reputation" and "Wrecking Ball."</desc>
         <icon src="https://images.pluto.tv/series/68dbb901e466f791b5fb5207/tile_1759230465131.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8ecd9169d2d4000864a974" start="20260710220900 +0000" stop="20260711020000 +0000">
+    <programme channel="5f8ecd9169d2d4000864a974" start="20260710220900 +0000" stop="20260710224000 +0000">
+        <title>Humans Vs. Everything</title>
+        <desc>From heartfelt highs to hilarious fails, it's a wild ride in the name of love!</desc>
+        <icon src="https://images.pluto.tv/series/68dbb8ffe466f791b5fb4f91/tile_1759230228413.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ecd9169d2d4000864a974" start="20260710224000 +0000" stop="20260710231100 +0000">
+        <title>Humans Vs. Everything</title>
+        <desc>Big exciting sports means big exciting fails. Tune in to this extreme clash unfold!</desc>
+        <icon src="https://images.pluto.tv/series/68dbb8ffe466f791b5fb4f91/tile_1759230228413.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ecd9169d2d4000864a974" start="20260710231100 +0000" stop="20260711020000 +0000">
         <title>FailArmy</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8ecd9169d2d4000864a974/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31676,27 +32301,22 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>Six players compete in San Jose for the more the $960,000 top prize in the WPT Bay 101 Shooting Star.</desc>
         <icon src="https://images.pluto.tv/series/5fb5604f9d991c001a9e6043/tile_1781136387139.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8ecfb9db6c180007a6d1b0" start="20260710221800 +0000" stop="20260711020000 +0000">
+    <programme channel="5f8ecfb9db6c180007a6d1b0" start="20260710221800 +0000" stop="20260710230900 +0000">
+        <title>World Poker Tour: Seminole Hard Rock Poker Showdown - Part 1</title>
+        <desc>Six players compete in Hollywood, FL for the $780,000 first-place prize in the WPT Seminole Hard Rock Poker Showdown.</desc>
+        <icon src="https://images.pluto.tv/series/5fb5604f9d991c001a9e6043/tile_1781136387139.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ecfb9db6c180007a6d1b0" start="20260710230900 +0000" stop="20260711020000 +0000">
         <title>WPT</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8ecfb9db6c180007a6d1b0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="60afa1508284e60007163c08" start="20260710213200 +0000" stop="20260710220200 +0000">
-        <title>Juste pour rire GAGS</title>
-        <desc>Savourez une bonne dose de rire offerte par l’émission de gags la plus aimée au monde depuis plus d’une décennie !</desc>
-        <icon src="https://images.pluto.tv/series/67af20268a1d0ef89434f9bc/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="60afa1508284e60007163c08" start="20260710220200 +0000" stop="20260711020000 +0000">
+    <programme channel="60afa1508284e60007163c08" start="20260710220000 +0000" stop="20260711020000 +0000">
         <title>Juste pour Rire GAGS</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60afa1508284e60007163c08/featuredImage_1746815950269.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="60d35bcaf1ff4a00078af0a6" start="20260710220000 +0000" stop="20260710223000 +0000">
-        <title>Euronews</title>
-        <desc>La première chaîne européenne d'information internationale, en France. Grâce à Pluto TV, restez informé gratuitement 24/24 h et 7/7 j.</desc>
-        <icon src="https://images.pluto.tv/series/613b1d4fbae8cc0007a3dfcb/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="60d35bcaf1ff4a00078af0a6" start="20260710223000 +0000" stop="20260711020000 +0000">
+    <programme channel="60d35bcaf1ff4a00078af0a6" start="20260710220000 +0000" stop="20260711020000 +0000">
         <title>Euronews</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60d35bcaf1ff4a00078af0a6/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31716,7 +32336,17 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>All the boxing action.</desc>
         <icon src="https://images.pluto.tv/series/6548c0673e6938001ad79e12/tile_1775524054747.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="64d626ac9b414d000820e2fc" start="20260710221600 +0000" stop="20260711020000 +0000">
+    <programme channel="64d626ac9b414d000820e2fc" start="20260710221600 +0000" stop="20260710225800 +0000">
+        <title>Boxing</title>
+        <desc>From Little Caesars Arena in Detroit, Mich.</desc>
+        <icon src="https://images.pluto.tv/series/6548c0673e6938001ad79e12/tile_1775524054747.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64d626ac9b414d000820e2fc" start="20260710225800 +0000" stop="20260710234000 +0000">
+        <title>Boxing</title>
+        <desc>All the boxing action.</desc>
+        <icon src="https://images.pluto.tv/series/6548c0673e6938001ad79e12/tile_1775524054747.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64d626ac9b414d000820e2fc" start="20260710234000 +0000" stop="20260711020000 +0000">
         <title>DAZN Ringside</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/64d626ac9b414d000820e2fc/featuredImage_1772441714915.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31731,12 +32361,7 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/660c2a2d2433010008df7e92/featuredImage_1750065043035.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="66c45b36a72e7b0008a2b291" start="20260710220000 +0000" stop="20260710230000 +0000">
-        <title>Top stories from CNN</title>
-        <desc>From the leader in global news, fast-paced videos featuring the latest stories on major events, business, entertainment, sport, and the environment.</desc>
-        <icon src="https://images.pluto.tv/series/66dffcf422dfe9001385298a/tile_1747811533762.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="66c45b36a72e7b0008a2b291" start="20260710230000 +0000" stop="20260711020000 +0000">
+    <programme channel="66c45b36a72e7b0008a2b291" start="20260710220000 +0000" stop="20260711020000 +0000">
         <title>CNN Headlines International</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66c45b36a72e7b0008a2b291/featuredImage_1775159909058.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31746,7 +32371,12 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>An exclusive interview looking back on Tony Knowles' career, biggest matches and memories from the snooker world.</desc>
         <icon src="https://images.pluto.tv/series/6a490414920a04f6d75fb3c4/tile_1783170100162.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66fd35e44ca31f0008060b77" start="20260710221500 +0000" stop="20260711020000 +0000">
+    <programme channel="66fd35e44ca31f0008060b77" start="20260710221500 +0000" stop="20260711003000 +0000">
+        <title>Snooker 900</title>
+        <desc>Live Snooker 900, une version innovante, rapide et palpitante du billard ! Chaque semaine, des joueurs légendaires s'affrontent dans des tournois captivants.</desc>
+        <icon src="https://images.pluto.tv/series/69172310f17cb9c145a81039/tile_1763131342552.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66fd35e44ca31f0008060b77" start="20260711003000 +0000" stop="20260711020000 +0000">
         <title>Pluto TV Snooker 900</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66fd35e44ca31f0008060b77/featuredImage_1762954633930.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31761,12 +32391,7 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/671643fc5534bb00089187ad/featuredImage_1732094996757.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="67921b78b83355184c667770" start="20260710220000 +0000" stop="20260710223000 +0000">
-        <title>UFC</title>
-        <desc>De l'action UFC 24h/24 et 7j/7. Célébrez les plus grands combats, les meilleurs athlètes et les moments les plus importants de la première organisation de MMA au monde.</desc>
-        <icon src="https://images.pluto.tv/series/67a09c47f1031000087f00e4/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="67921b78b83355184c667770" start="20260710223000 +0000" stop="20260711020000 +0000">
+    <programme channel="67921b78b83355184c667770" start="20260710220000 +0000" stop="20260711020000 +0000">
         <title>UFC</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/67921b78b83355184c667770/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
