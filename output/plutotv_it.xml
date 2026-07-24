@@ -12407,6 +12407,11 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>El Profesor Henry Harrington (Maurice Denham), un investigador de sectas que venía denunciando las actividades demonológicas del Dr. Karswell, muere en un extraño accidente.</desc>
         <icon src="https://images.pluto.tv/series/673b0d56882f6d0013934b9a/tile_1769191203948.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="61373bb45168fe000773eecd" start="20260725103408 +0000" stop="20260725120054 +0000">
+        <title>El increíble hombre menguante</title>
+        <desc>Scott Carey navega con su mujer en un yate y, mientras ella va a buscar una cerveza, se ve envuelto en una extraña nube. Meses después, empieza a notar cambios en su cuerpo: poco a poco va perdiendo peso y altura hasta hacerse casi invisible.</desc>
+        <icon src="https://images.pluto.tv/series/6638f4b7c306f10014a6a606/tile_1768603322186.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="61373c865ed5810007173fbc" start="20260725051200 +0000" stop="20260725053800 +0000">
         <title>La leyenda de Korra: El enemigo a las puertas</title>
         <desc>Kuvira amenaza a Zaofu; Bolin se encuentra en medio del rencor entre Su Beifong y Kuvira.</desc>
@@ -12881,6 +12886,11 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <title>Melancolía</title>
         <desc>Con motivo de su matrimonio, Justine y Michael dan una suntuosa recepción en la casa de la hermana de Justine y de su cuñado. Mientras tanto, el planeta Melancholia se dirige hacia la Tierra.</desc>
         <icon src="https://images.pluto.tv/series/60d18630d2de2a0013003593/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="676e7b4a4bd636000819c6a7" start="20260725103721 +0000" stop="20260725122843 +0000">
+        <title>La Fiera de mi Niña</title>
+        <desc>David Huxley (Cary Grant) es un paleontólogo tímido y despistado que está a punto de acabar la laboriosa reconstrucción del esqueleto de un brontosaurio, del que sólo le falta una clavícula intercostal.</desc>
+        <icon src="https://images.pluto.tv/series/673afddbe103890013db9df7/tile_1769190841957.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="680ba8992472a7200a183eb5" start="20260725050420 +0000" stop="20260725053026 +0000">
         <title>One Piece</title>
@@ -21981,6 +21991,11 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <title>Albert Nobbs</title>
         <desc>Irlanda, siglo XIX. Una mujer (Glenn Close) se disfraza de hombre para poder trabajar y sobrevivir. El film obtuvo 3 nominaciones a los Oscar, 2011.</desc>
         <icon src="https://images.pluto.tv/series/69ef3d7811a68f7704228c8c/tile_1777286521200.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68d566603d3a9580eb461251" start="20260725173750 +0000" stop="20260725200850 +0000">
+        <title>Un asunto real</title>
+        <desc>Osamu y su hijo encuentran a una niña en la calle, aterida de frío. A pesar de sobrevivir con dificultades gracias a pequeños robos, la familia es feliz, hasta que un incidente imprevisto revela un secreto que pone a prueba los lazos que les unen.</desc>
+        <icon src="https://images.pluto.tv/series/60d0435328f1d30013ed345f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="69c51060ed1b1f1acb5092dc" start="20260725133000 +0000" stop="20260725141800 +0000">
         <title>Alaska y Mario: Huracán mexicano</title>
@@ -31794,12 +31809,7 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/69148c470155f9b136b5d856/featuredImage_1763054843488.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="696e02423b9ce349c90edef9" start="20260725203300 +0000" stop="20260725223300 +0000">
-        <title>Rally TV</title>
-        <desc>tbc</desc>
-        <icon src="https://images.pluto.tv/series/69a724bbb2d615a4c02b5725/tile_1772561596677.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="696e02423b9ce349c90edef9" start="20260725223300 +0000" stop="20260726013000 +0000">
+    <programme channel="696e02423b9ce349c90edef9" start="20260725213000 +0000" stop="20260726013000 +0000">
         <title>Rally TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/696e02423b9ce349c90edef9/featuredImage_1770892063713.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
